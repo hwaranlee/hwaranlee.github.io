@@ -2,22 +2,34 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#"> Hello </a>. Hello
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile.jpg
+  #address: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working as a research scientist at [SK T-Brain](https://skt.ai) since November 2018. In 2018, I received Ph.D. *(Thesis: Neural representation for speech recognition and natural language generation)* from the School of Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) under the supervision of [Prof. Soo-Young Lee](http://cnsl.kaist.ac.kr). In 2012, I received B.S. from the department of Mathematical Science at KAIST.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At T-Brain, my research aims at analyzing dialog systems that humans can conveniently as well as accurately communicate through the natural language. Recently, I have been focusing on natural language understanding and generation, scalable to multi-domain goal-oriented dialog systems. Through AI research, I am hoping for making people’s lives more comfortable and pleasant.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more details, check out my full 
+[`Curriculum Vitae`](cv_hwaranlee_200624.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
+
+----
+
+### Research Interests
+
+- Natural Language Understanding/Generation
+- Dialog Systems
+- Speech Recognition
+- Neural Networks and Machine Learning
+
+-----

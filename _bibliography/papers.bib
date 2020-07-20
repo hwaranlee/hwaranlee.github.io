@@ -3,6 +3,85 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{Lee2019,
+abstract = {In goal-oriented dialog systems, belief trackers estimate the probability distribution of slot-values at every dialog turn. Previous neural approaches have modeled domain- and slot-dependent belief trackers, and have difficulty in adding new slot-values, resulting in lack of flexibility of domain ontology configurations. In this paper, we propose a new approach to universal and scalable belief tracker, called slot-utterance matching belief tracker (SUMBT). The model learns the relations between domain-slot-types and slot-values appearing in utterances through attention mechanisms based on contextual semantic vectors. Furthermore, the model predicts slot-value labels in a non-parametric way. From our experiments on two dialog corpora, WOZ 2.0 and MultiWOZ, the proposed model showed performance improvement in comparison with slot-dependent methods and achieved the state-of-the-art joint accuracy.},
+archivePrefix = {arXiv},
+arxivId = {1907.07421},
+author = {Lee, Hwaran and Lee, Jinsik and Kim, Tae-Yoon},
+doi = {10.18653/v1/p19-1546},
+eprint = {1907.07421},
+file = {:Users/rann-brain/OneDrive/papers/00. all papers/SUMBT Slot-Utterance Matching for Universal and Scalable Belief Tracking - 2019 - Lee, Lee, Kim.pdf:pdf},
+pages = {5478--5483},
+title = {{SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking}},
+year = {2019}
+}
+@article{Iqbal2013,
+abstract = {A smart user-interface for mobile consumer devices was developed using a robust eye-gaze system without any hand motion. Using one camera and one display already available in popular mobile devices, the eye-gaze system estimates the visual angle, which shows the area of interest on the display to indicate the position of the cursor. Three novel techniques were developed to make the system robust, userindependent, and head/device motion invariant. First, by carefully investigating the geometric relation between the device and the user's cornea, a new algorithm was developed to estimate the cornea center position, which is directly related to the optical axis of the eye. Unlike previous algorithms, it does not utilize the user-dependent cornea radius. Second, to make the system robust for practical application, an algorithm was developed to compensate for imaging position errors due to the finite camera resolution. Third, a binocular algorithm was developed to estimate the user-dependent angular offsets between the optical and visual axes with only single point calibration. The proposed system was demonstrated to be accurate enough for many practical mobile user interfaces. 1  {\textcopyright} 1975-2011 IEEE.},
+author = {Iqbal, N. and Lee, H. and Lee, S.-Y.},
+doi = {10.1109/TCE.2013.6490255},
+issn = {00983063},
+journal = {IEEE Transactions on Consumer Electronics},
+keywords = {Human-computer interface,binoculargaze relation,model-based eye-gaze estimation,multimodaluser interface},
+number = {1},
+title = {{Smart user interface for mobile consumer devices using model-based eye-gaze estimation}},
+volume = {59},
+year = {2013}
+}
+@article{Lee2013,
+abstract = {A new calibration method is presented for robust eye-gaze estimation systems which are utilized to understand the human mind. Although current eye-gaze systems with one camera and a few infrared light sources have been developed to allow users' head motion, they still require one to know the relative positions between the camera and light sources with very high accuracy. The developed calibration method utilizes a three-dimensional geometrical relationship between the light source positions and corresponding camera images reflected on a mirror at several positions and rotations. The best estimates of the light source positions are obtained from noisy measurements by minimizing a cost function, which ensures the integrity of the camera and light sources. The developed calibration method makes it possible to convert many camera-and-display devices into robust eye-gaze estimation systems. {\textcopyright} 2001-2012 IEEE.},
+author = {Lee, H. and Iqbal, N. and Chang, W. and Lee, S.-Y.},
+doi = {10.1155/ASP.2005.2061},
+issn = {11108657},
+journal = {IEEE Sensors Journal},
+keywords = {Eye-gaze estimation system,model-based eye-gaze estimation,sensor system calibration},
+number = {9},
+title = {{A calibration method for eye-gaze estimation systems based on 3D geometrical optics}},
+volume = {13},
+year = {2013}
+}
+@article{Kim2017,
+abstract = {IEEE In this paper, we propose an N-best rescoring system that integrates attentional information for locally confusing words extracted from alternative hypotheses to a conventional speech recognition system. The attentional information is derived by adapting a test input feature for the word of interest, which is motivated by the top-down selective attention mechanism of the brain. To rescore the competing hypotheses, we define a new confidence measure that contains both the conventional posterior probability and the attentional information for the confusing words. In addition, a neural network is designed to provide different weights within the confidence measure for each utterance. The network is then optimized to minimize the word error rates. Tests on the WSJ and Aurora4 speech recognition tasks were conducted, and our best results achieve a word error rate of 3.96{\%} and 11.09{\%}, yielding a relative reduction of 7.26{\%} and 2.55{\%} over baselines, respectively.},
+author = {Kim, H. and Lee, H. and Kim, G. and Oh, S. and Lee, S.},
+doi = {10.1109/LSP.2017.2772828},
+file = {:Users/rann-brain/OneDrive/papers/00. all papers/Rescoring of N-best Hypotheses using Top-down Selective Attention for Automatic Speech Recognition - 2017 - Kim et al.pdf:pdf},
+issn = {10709908},
+journal = {IEEE Signal Processing Letters},
+keywords = {Acoustics,Feature extraction,Indexes,N-best rescoring,Speech,Speech recognition,Training,continuous speech recognition,parameter optimization,top-down selective attention},
+number = {2},
+pages = {199--203},
+title = {{Rescoring of N-best Hypotheses using Top-down Selective Attention for Automatic Speech Recognition}},
+volume = {25},
+year = {2017}
+}
+@article{Kim2017a,
+author = {Kim, Geonmin and Lee, Hwaran and Lee, Cheongan and Hong, Eunmi and Lee, Soo-young},
+file = {:Users/rann-brain/OneDrive/papers/00. all papers/QA and Chitchat bots Interacting with Humanlike User Simulators for Insufficient Corpora - 2017 - Kim et al.pdf:pdf},
+number = {Nips},
+pages = {1--4},
+title = {{QA and Chitchat bots Interacting with Humanlike User Simulators for Insufficient Corpora}},
+year = {2017}
+}
+@article{Lee2016,
+abstract = {Convolutional neural networks (CNNs) with convolutional and pooling operations along the frequency axis have been proposed to attain invariance to frequency shifts of features. However, this is inappropriate with regard to the fact that acoustic features vary in frequency. In this paper, we contend that convolution along the time axis is more effective. We also propose the addition of an intermap pooling (IMP) layer to deep CNNs. In this layer, filters in each group extract common but spectrally variant features, then the layer pools the feature maps of each group. As a result, the proposed IMP CNN can achieve insensitivity to spectral variations characteristic of different speakers and utterances. The effectiveness of the IMP CNN architecture is demonstrated on several LVCSR tasks. Even without speaker adaptation techniques, the architecture achieved a WER of 12.7{\%} on the SWB part of the Hub5'2000 evaluation test set, which is competitive with other state-of-the-art methods.},
+archivePrefix = {arXiv},
+arxivId = {1606.03207},
+author = {Lee, Hwaran and Kim, Geonmin and Kim, Ho Gyeong and Oh, Sang Hoon and Lee, Soo Young},
+doi = {10.1109/LSP.2016.2589962},
+eprint = {1606.03207},
+file = {:Users/rann-brain/OneDrive/papers/00. all papers/Deep CNNs Along the Time Axis with Intermap Pooling for Robustness to Spectral Variations - 2016 - Lee et al.pdf:pdf},
+isbn = {1070-9908 VO - 23},
+issn = {10709908},
+journal = {IEEE Signal Processing Letters},
+keywords = {Acoustic modeling,Intermap pooling (IMP) layer,convolutional neural networks (CNNs)},
+number = {10},
+pages = {1310--1314},
+title = {{Deep CNNs Along the Time Axis with Intermap Pooling for Robustness to Spectral Variations}},
+volume = {23},
+year = {2016}
+}
+
+
+
 @book{einstein1956investigations,
   title={Investigations on the Theory of the Brownian Movement},
   author={Einstein, Albert},
