@@ -11,7 +11,7 @@ Download [`cv`](../cv_hwaranlee_200922.pdf) (updated: 2020/09/22)
 
 * **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, South Korea
   * **Ph. D., Electrical Engineering**, Mar. 2013 - Aug. 2018
-  * Dissertation title: *Neural Representations for Speech Recognition and Natural Language Generation*
+  * Dissertation: *Neural Representations for Speech Recognition and Natural Language Generation*
   * Advisor: Prof. Soo-Young Lee
   * Committee Members: Prof. Dae-Shik Kim, Hoirin Kim, Alice Oh, Jinwoo Shin, Sang-Hoon Oh
 * **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, South Korea
@@ -29,7 +29,7 @@ Download [`cv`](../cv_hwaranlee_200922.pdf) (updated: 2020/09/22)
 * **Graduate Research Assistant**
   * Electrical Engineering, KAIST, Daejeon, South Korea, Mar. 2013 - Aug. 2018
 * **Undergraduate Researcher**
-  * Brain Science Research Center, Daejeon, South Korea,   Jun. 2012 - Feb. 2013
+  * Brain Science Research Center, Daejeon, South Korea, Jun. 2012 - Feb. 2013
 
 ---
 
