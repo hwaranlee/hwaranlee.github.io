@@ -22,11 +22,11 @@ nav: true
 
 ###### **[A2] [SUMBT+LaRL: End-to-end Neural Task-oriented Dialog System with Reinforcement Learning](https://arxiv.org/abs/2009.10447)**
   * Hwaran Lee, Seokhwan Jo, HyungJun Kim, Sangkeun Jung, and Tae-Yoon Kim
-  * ***preprint.*** [`pdf`](https://arxiv.org/pdf/2009.10447.pdf)
+  * ***preprint.*** \| [`pdf`](https://arxiv.org/pdf/2009.10447.pdf)
 
 ###### **[A1] [DialGraph: Sparse Graph Learning Networks for Visual Dialog](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * ***preprint.*** [`pdf`](https://arxiv.org/abs/2004.06698.pdf)
+  * ***preprint.*** \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf)
 
 ---
 
