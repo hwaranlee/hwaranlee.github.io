@@ -21,7 +21,7 @@ I am currently working as a research scientist at [SK T-Brain](https://skt.ai) s
 At T-Brain, my research aims at analyzing dialog systems that humans can conveniently as well as accurately communicate through the natural language. Recently, I have been focusing on natural language understanding and generation, scalable to multi-domain goal-oriented dialog systems. Through AI research, I am hoping for making people’s lives more comfortable and pleasant.
 
 For more details, check out my full 
-[`Curriculum Vitae`](cv_hwaranlee_200624.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
+[`Curriculum Vitae`](cv_hwaranlee_200922.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
 
 ----
 

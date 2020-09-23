@@ -5,7 +5,7 @@ title: cv
 description:
 nav: true
 ---
-Download [`cv`](../cv_hwaranlee_200624.pdf)
+Download [`cv`](../cv_hwaranlee_200922.pdf) (updated: 2020/09/22)
 
 ### Education
 
@@ -41,14 +41,17 @@ Download [`cv`](../cv_hwaranlee_200624.pdf)
 * Method and Apparatus for Dialogue State Tracking for Use in Goal-oriented Dialog System
 <!-- * **Hwaran Lee**, Jinsik Lee, Tae-Yoon Kim -->
   * Korea Patent Application 10-2019-0086380, filed July 2019, Patent Pending.
+  * PCT/KR2020/008832, ﬁled July 2020, Patent Pending.
 
 ---
 
 ### Invited Talks
 
-* Introduction to deep learning for dialogue systems, *Yeonsei Univ.*, Seoul, Jun. 2020 <!-- \| [`slide`](200619_lec_ys.pdf) -->
+* Introduction to deep learning for dialogue systems, <!--\| [`slide`](191009_SMWU.pdf) -->
+  * *Inha Univ.*, Seoul, Oct. 2020
+  * *Yeonsei Univ.*, Seoul, Jun. 2020
+  * *Sookmyung Women's Univ.*, Seoul, Oct. 2019
 * Toward end-to-end neural dialog systems for multi-domain task completion, *KAIST*, Daejeon, Dec. 2019  <!-- \| [`slide (TBD)`]() -->
-* Introduction to deep learning for dialogue systems, *Sookmyung Women's Univ.*, Seoul, Oct. 2019 \| [`slide`](191009_SMWU.pdf)
 
 ---
 

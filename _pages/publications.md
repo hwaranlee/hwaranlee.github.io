@@ -20,8 +20,12 @@ nav: true
 
 ### 2020
 
+###### **[A2] [SUMBT+LaRL: End-to-end Neural Task-oriented Dialog System with Reinforcement Learning](https://arxiv.org/abs/2009.10447)**
+  * Hwaran Lee, Seokhwan Jo, HyungJun Kim, Sangkeun Jung, and Tae-Yoon Kim
+  * ***preprint.*** [`pdf`](https://arxiv.org/pdf/2009.10447.pdf)
+
 ###### **[A1] [DialGraph: Sparse Graph Learning Networks for Visual Dialog](https://arxiv.org/abs/2004.06698)**
-  * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, Jin-Hwa Kim
+  * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
   * ***preprint.*** [`pdf`](https://arxiv.org/abs/2004.06698.pdf)
 
 ---
@@ -29,11 +33,11 @@ nav: true
 ### 2019
 
 ###### **[C4] [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/abs/1907.07421)**
-  * **Hwaran Lee** *, Jinsik Lee *, Tae-Yoon Kim
+  * **Hwaran Lee** *, Jinsik Lee *, and Tae-Yoon Kim
   * *Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
 
 ###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/852884)**
-  * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, Sang-Hoon Oh, Soo-Young Lee
+  * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, Sang-Hoon Oh, and Soo-Young Lee
   * *IEEE Signal Processing Letters **(SPL)**, 2019.*  \| [`pdf`](https://arxiv.org/abs/1811.02182.pdf) \| [`code`](https://github.com/lifelongeek/AAS_enhancement)
 
 ---
@@ -45,7 +49,7 @@ nav: true
   * *Ph.D. Dissertation, Korea Advanced Institute of Science and Technology **(KAIST)**, 2018.*
 
 ###### **[J4] [Rescoring of N-best Hypotheses using Top-down Selective Attention for Automatic Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8105863/)**
-  * Ho-Gyeong Kim, **Hwaran Lee**, Geonmin Kim, Sang-Hoon Oh, Soo-Young Lee
+  * Ho-Gyeong Kim, **Hwaran Lee**, Geonmin Kim, Sang-Hoon Oh, and Soo-Young Lee
   * *IEEE Signal Processing Letters **(SPL)**, 2018.* \| [`pdf`](2017_topdown_attention.pdf)
 
 ---
@@ -53,7 +57,7 @@ nav: true
 ### 2017
 
 ###### **[W3] [A Deep Chatbot for QA and Chitchat](http://convai.io/2017/)**
-  * Geonmin Kim * , **Hwaran Lee** * , CheongAn Lee, Eunmi Hong, Byunggeun Kim, Soo-Young Lee *(team kAIb)*
+  * Geonmin Kim * , **Hwaran Lee** * , CheongAn Lee, Eunmi Hong, Byunggeun Kim, and Soo-Young Lee *(team kAIb)*
   * *The Conversational Intelligence Challenge section on NIPS 2017 Competition Track Workshop **(ConvAI, NIPS)**, 2017.* \| [`pdf`](2017_convai_nips_combine.pdf) \| [`code`](https://github.com/gmkim90/kaib_nips) \| [`poster`](2017_convai_nips_poster.pdf) \| `Ranked 3rd`
 
 
@@ -67,7 +71,7 @@ nav: true
 ### 2016
 
 ###### **[J3] [Deep CNNs Along the Time Axis With Intermap Pooling for Robustness to Spectral Variations](https://ieeexplore.ieee.org/abstract/document/7508979)**
-  * **Hwaran Lee**, Geonmin Kim, Ho-Gyeong Kim, Sang-Hoon Oh, Soo-Young Lee
+  * **Hwaran Lee**, Geonmin Kim, Ho-Gyeong Kim, Sang-Hoon Oh, and Soo-Young Lee
   * *IEEE Signal Processing Letters **(SPL)**, 2016.* \| [`pdf`](https://arxiv.org/pdf/1606.03207.pdf) \| [`code`](https://github.com/hwaranlee/kaldi-cnn) \| [`demo`](https://youtu.be/wKbLlqVd524)
 
 ---
@@ -100,5 +104,5 @@ nav: true
   * *IEEE Sensors Journal **(Sensors)**, 2013.* \| [`pdf`](2013_A Calibration Method for Eye-Gaze Estimation.pdf)
 	
 ###### **[J1] [Smart User Interface for Mobile Consumer Devices Using Model-Based Eye-Gaze Estimation](https://ieeexplore.ieee.org/abstract/document/6490255)**
-  * Nadeem Iqbal, **Hwaran Lee**, Soo-Young Lee
+  * Nadeem Iqbal, **Hwaran Lee**, and Soo-Young Lee
   * *IEEE Transactions on Consumer Electronics **(TCE)**, 2013.* \| [`pdf`](2013_Smart User Interface for Mobile Consumer Devices using model-based eye-gaze estimation.pdf)
