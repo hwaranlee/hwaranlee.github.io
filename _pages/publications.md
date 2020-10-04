@@ -36,7 +36,7 @@ nav: true
   * **Hwaran Lee** *, Jinsik Lee *, and Tae-Yoon Kim
   * *Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
 
-###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/852884)**
+###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8528843)**
   * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, Sang-Hoon Oh, and Soo-Young Lee
   * *IEEE Signal Processing Letters **(SPL)**, 2019.*  \| [`pdf`](https://arxiv.org/abs/1811.02182.pdf) \| [`code`](https://github.com/lifelongeek/AAS_enhancement)
 
