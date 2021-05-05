@@ -5,7 +5,7 @@ title: cv
 description:
 nav: true
 ---
-Download [`cv`](../cv_hwaranlee_200922.pdf) (updated: 2020/09/22)
+Download [`cv`](../cv_hwaranlee_210502.pdf) (as of: 2021/05/02)
 
 ### Education
 
@@ -25,7 +25,9 @@ Download [`cv`](../cv_hwaranlee_200922.pdf) (updated: 2020/09/22)
 
 ### Research and Work Experiences
 * **Research Scientist**
-  * T-Brain, AI Center, SK Telecom, Seoul, South Korea, Nov. 2018 - Present
+  * NAVER AI Lab, NAVER Corp., Seongnam, Gyeonggi, South Korea, Mar. 2021 - Present
+* **Research Scientist**
+  * T-Brain, AI Center, SK Telecom, Seoul, South Korea, Nov. 2018 - Feb. 2021
 * **Graduate Research Assistant**
   * Electrical Engineering, KAIST, Daejeon, South Korea, Mar. 2013 - Aug. 2018
 * **Undergraduate Researcher**
@@ -57,12 +59,11 @@ Download [`cv`](../cv_hwaranlee_200922.pdf) (updated: 2020/09/22)
 
 ### Academic Services
 
-* The International Conference on Learning Representations (ICLR), 2021
-* The International Conference on Computational Linguistics (COLING), 2020
+* COLING 2020, ICLR 2021, ACL 2021, EMNLP 2021, NeurIPS 2021
 * Samsung Humantech Paper Awards Committee, 2020
-* Qualcomm Innovation Awards (Undergraduate Track) Committee, 2019
+* Qualcomm Innovation Awards Committee, 2019
 * Speech Communication, 2019
-* IEEE Transactions on Neural Networks and Learning Systems, 2017, 2018
+* IEEE Transactions on Neural Networks and Learning Systems, 2017 - 2018
 * Neural Processing Letters, 2015
 
 ---

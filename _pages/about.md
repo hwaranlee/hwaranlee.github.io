@@ -16,18 +16,21 @@ news: false
 social: true
 ---
 
-I am currently working as a research scientist at [SK T-Brain](https://skt.ai) since November 2018. In 2018, I received Ph.D. *(Thesis: Neural representation for speech recognition and natural language generation)* from the School of Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) under the supervision of [Prof. Soo-Young Lee](http://cnsl.kaist.ac.kr). In 2012, I received B.S. from the department of Mathematical Science at KAIST.
+I am a research scientist at [NAVER AI Lab](https://clova.ai/en/) since March 2021, working on broad natural language-related topics. My primary research interests are controllable language generation, dialog systems, fact verification, and ethics for AI.
 
-At T-Brain, my research aims at analyzing dialog systems that humans can conveniently as well as accurately communicate through the natural language. Recently, I have been focusing on natural language understanding and generation, scalable to multi-domain goal-oriented dialog systems. Through AI research, I am hoping for making people’s lives more comfortable and pleasant.
+Prior to joining NAVER, I worked at [SK T-Brain](https://skt.ai) as a research scientist from 2018 to 2021. During the exciting working periods, I researched and developed task-oriented dialog systems and AutoML for various natural language processing tasks.
+
+In 2018, I received Ph.D. *(Thesis: [Neural representation for speech recognition and natural language generation]())* from the School of Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) under the supervision of [Prof. Soo-Young Lee](http://cnsl.kaist.ac.kr). In 2012, I received B.S. from the Department of Mathematical Science at [KAIST](http://kaist.ac.kr).
 
 For more details, check out my full 
-[`Curriculum Vitae`](cv_hwaranlee_200922.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
+[`Curriculum Vitae`](cv_hwaranlee_210502.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
 
 ----
 
 ### Research Interests
 
-- Natural Language Understanding/Generation
+- Language Models
+- Natural Language Understanding and Generation
 - Dialog Systems
 - Speech Recognition
 - Neural Networks and Machine Learning
