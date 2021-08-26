@@ -13,7 +13,7 @@ Download [`cv`](../cv_hwaranlee_210502.pdf) (as of: 2021/05/02)
   * **Ph. D., Electrical Engineering**, Mar. 2013 - Aug. 2018
   * Dissertation: *Neural Representations for Speech Recognition and Natural Language Generation*
   * Advisor: Prof. Soo-Young Lee
-  * Committee Members: Prof. Dae-Shik Kim, Hoirin Kim, Alice Oh, Jinwoo Shin, Sang-Hoon Oh
+  <!-- * Committee Members: Prof. Dae-Shik Kim, Hoirin Kim, Alice Oh, Jinwoo Shin, Sang-Hoon Oh -->
 * **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, South Korea
   * **B.S., Mathematical Science**, Feb. 2008 - Aug. 2012
   * Minor: Financial Engineering Program
@@ -59,7 +59,7 @@ Download [`cv`](../cv_hwaranlee_210502.pdf) (as of: 2021/05/02)
 
 ### Academic Services
 
-* COLING 2020, ICLR 2021, ACL 2021, EMNLP 2021, NeurIPS 2021
+* COLING 2020, ICLR 2021-2022, ACL 2021, EMNLP 2021, NeurIPS 2021
 * Samsung Humantech Paper Awards Committee, 2020
 * Qualcomm Innovation Awards Committee, 2019
 * Speech Communication, 2019

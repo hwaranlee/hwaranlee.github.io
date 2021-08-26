@@ -20,13 +20,13 @@ nav: true
 
 ### 2020
 
-###### **[A2] [SUMBT+LaRL: End-to-end Neural Task-oriented Dialog System with Reinforcement Learning](https://arxiv.org/abs/2009.10447)**
-  * Hwaran Lee, Seokhwan Jo, HyungJun Kim, Sangkeun Jung, and Tae-Yoon Kim
-  * ***preprint.*** \| [`pdf`](https://arxiv.org/pdf/2009.10447.pdf)
+###### **[J6] [SUMBT+LaRL: Effective Multi-domain End-to-end Neural Task-oriented Dialog System](https://ieeexplore.ieee.org/abstract/document/9514885)**
+  * **Hwaran Lee**, Seokhwan Jo, HyungJun Kim, Sangkeun Jung, and Tae-Yoon Kim
+  * ***IEEE Access**, 2021* \| [`pdf`](https://arxiv.org/pdf/2009.10447.pdf)
 
-###### **[A1] [DialGraph: Sparse Graph Learning Networks for Visual Dialog](https://arxiv.org/abs/2004.06698)**
+###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * ***preprint.*** \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf)
+  * *Empirical Methods in Natural Language Processing **(EMNLP)** **Findings**, 2021* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf)
 
 ---
 
