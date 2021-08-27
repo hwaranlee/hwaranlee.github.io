@@ -15,10 +15,10 @@ nav: true
 
 ---
 
-**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**:Dissertation\\
+**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**:Dissertation \\
 \* indicates equal contribution among authors
 
-### 2020
+### 2020-2021
 
 ###### **[J6] [SUMBT+LaRL: Effective Multi-domain End-to-end Neural Task-oriented Dialog System](https://ieeexplore.ieee.org/abstract/document/9514885)**
   * **Hwaran Lee**, Seokhwan Jo, HyungJun Kim, Sangkeun Jung, and Tae-Yoon Kim
