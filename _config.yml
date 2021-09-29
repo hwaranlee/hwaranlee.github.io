@@ -43,12 +43,10 @@ orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Hwaran-Lee-2 # your profile on ResearchGate
+research_gate_profile: Hwaran-Lee-2 # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: >
-  Feel free to contact me via email :)
-
+contact_note: 
 google_analytics: UA-144183589-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------

@@ -26,7 +26,7 @@ nav: true
 
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * *Empirical Methods in Natural Language Processing **(EMNLP)** **Findings**, 2021* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf)
+  * *Empirical Methods in Natural Language Processing **(EMNLP)** **Findings**, 2021* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
 
 ---
 
