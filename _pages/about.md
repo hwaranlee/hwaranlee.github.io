@@ -25,7 +25,7 @@ In 2018, I obtained Ph.D.
 in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) where I was fortunate to be advised by [Prof. Soo-Young Lee](http://cnsl.kaist.ac.kr). In 2012, I obtained B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr).
 
 For more details, check out my full 
-[`Curriculum Vitae`](cv_hwaranlee_210827.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
+[`CV`](cv_hwaranlee_210827.pdf) and feel free to contact me via email: `{first_name}.{last_name}@gmail.com`
 
 <!--
 ----

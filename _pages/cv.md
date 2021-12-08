@@ -58,14 +58,18 @@ Download [`cv`](../cv_hwaranlee_210827.pdf) (as of: 2021/08/27)
 ---
 
 ### Academic Services
-
-* ACL 2021, EMNLP 2021, COLING 2020 
-* NeurIPS 2021, ICLR 2021-2022
-* Samsung Humantech Paper Awards Committee, 2020
-* Qualcomm Innovation Awards Committee, 2019
-* Speech Communication, 2019
-* IEEE Transactions on Neural Networks and Learning Systems, 2017 - 2018
-* Neural Processing Letters, 2015
+* Conference Program Committee / Reviewer
+  * ARR 2021, ACL 2021, EMNLP 2021, COLING 2020 
+  * NeurIPS 2021
+  * ICLR 2021-2022
+  * WWW 2022
+* Journal Reviewer
+  * Speech Communication, 2019
+  * IEEE Transactions on Neural Networks and Learning Systems, 2017 - 2018
+  * Neural Processing Letters, 2015
+* Misc.
+  * Samsung Humantech Paper Awards Committee, 2020
+  * Qualcomm Innovation Awards Committee, 2019
 
 ---
 
