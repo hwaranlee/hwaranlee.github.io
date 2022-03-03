@@ -18,6 +18,19 @@ nav: true
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**:Dissertation \\
 \* indicates equal contribution among authors
 
+
+### 2022
+
+###### **[C7] [Continual Plug-and-Adapt for CuQA]()**
+  * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
+  * *Findings of the Association for Computational Linguistics:: **ACL**, 2022 (to appear)*
+  
+###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models]()**
+  * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
+  * *In Proceedings of the 2022 **CHI** Conference on Human Factors in Computing Systems, 2022 (to appear)*
+
+---
+
 ### 2020-2021
 
 ###### **[J6] [SUMBT+LaRL: Effective Multi-domain End-to-end Neural Task-oriented Dialog System](https://ieeexplore.ieee.org/abstract/document/9514885)**
@@ -26,7 +39,8 @@ nav: true
 
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * *Empirical Methods in Natural Language Processing **(EMNLP)** **Findings**, 2021* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
+  * *Findings of the Association for Computational Linguistics: **EMNLP** 2021,* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
+
 
 ---
 
@@ -34,7 +48,7 @@ nav: true
 
 ###### **[C4] [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/abs/1907.07421)**
   * **Hwaran Lee** *, Jinsik Lee *, and Tae-Yoon Kim
-  * *Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
+  * Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
 
 ###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8528843)**
   * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, Sang-Hoon Oh, and Soo-Young Lee

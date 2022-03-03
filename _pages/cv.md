@@ -5,7 +5,7 @@ title: cv
 description:
 nav: true
 ---
-Download [`cv`](../cv_hwaranlee_210827.pdf) (as of: 2021/08/27)
+Download [`cv`](../cv_hwaranlee_220209.pdf) (as of: 2022/02/09)
 
 ### Education
 
@@ -59,10 +59,11 @@ Download [`cv`](../cv_hwaranlee_210827.pdf) (as of: 2021/08/27)
 
 ### Academic Services
 * Conference Program Committee / Reviewer
-  * ARR 2021, ACL 2021, EMNLP 2021, COLING 2020 
+  * ARR 2021, ACL 2021, EMNLP 2021, COLING 2020
   * NeurIPS 2021
   * ICLR 2021-2022
   * WWW 2022
+  * ACL'22 [In2Writing workshop](https://in2writing.glitch.me)
 * Journal Reviewer
   * Speech Communication, 2019
   * IEEE Transactions on Neural Networks and Learning Systems, 2017 - 2018
