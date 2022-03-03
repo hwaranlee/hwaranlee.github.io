@@ -23,7 +23,7 @@ nav: true
 
 ###### **[C7] [Continual Plug-and-Adapt for CuQA]()**
   * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
-  * *Findings of the Association for Computational Linguistics:: **ACL**, 2022 (to appear)*
+  * *Findings of the Association for Computational Linguistics: **ACL**, 2022 (to appear)*
   
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models]()**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
