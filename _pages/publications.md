@@ -48,7 +48,7 @@ nav: true
 
 ###### **[C4] [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/abs/1907.07421)**
   * **Hwaran Lee** *, Jinsik Lee *, and Tae-Yoon Kim
-  * Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
+  * *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
 
 ###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8528843)**
   * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, Sang-Hoon Oh, and Soo-Young Lee
