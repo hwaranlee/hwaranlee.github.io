@@ -21,13 +21,13 @@ nav: true
 
 ### 2022
 
-###### **[C7] [Continual Plug-and-Adapt for CuQA]()**
+###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA]()**
   * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
-  * *Findings of the Association for Computational Linguistics: **ACL**, 2022 (to appear)*
+  * *Findings of the Association for Computational Linguistics: **ACL**, 2022. (to appear)*
   
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models]()**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
-  * *In Proceedings of the 2022 **CHI** Conference on Human Factors in Computing Systems, 2022 (to appear)*
+  * *In Proceedings of the 2022 **CHI** Conference on Human Factors in Computing Systems, 2022. (to appear)*
 
 ---
 
@@ -39,7 +39,7 @@ nav: true
 
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * *Findings of the Association for Computational Linguistics: **EMNLP** 2021,* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
+  * *Findings of the Association for Computational Linguistics: **EMNLP**, 2021.* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
 
 
 ---

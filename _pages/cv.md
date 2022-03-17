@@ -5,7 +5,7 @@ title: cv
 description:
 nav: true
 ---
-Download [`cv`](../cv_hwaranlee_220209.pdf) (as of: 2022/02/09)
+Download [`cv`](../cv_hwaranlee_220317.pdf) (as of: 2022/03/17)
 
 ### Education
 
