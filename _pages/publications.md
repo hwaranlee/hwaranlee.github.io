@@ -5,6 +5,8 @@ title: publications
 description:
 years: [1905, 1935, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
 nav: true
+sort_menu: 3
+
 
 #<div class="publications">
 #{% for y in page.years %}
@@ -13,9 +15,10 @@ nav: true
 #{% endfor %}
 #</div>
 
+
 ---
 
-**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**:Dissertation \\
+**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**:Dissertation, **P**:Patent \\
 \* indicates equal contribution among authors
 
 
@@ -23,7 +26,7 @@ nav: true
 
 ###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA]()**
   * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
-  * *Findings of the Association for Computational Linguistics: **ACL**, 2022. (to appear)*
+  * *In Findings of the Association for Computational Linguistics: **ACL**, 2022. (to appear)*
   
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models]()**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
@@ -39,16 +42,25 @@ nav: true
 
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * *Findings of the Association for Computational Linguistics: **EMNLP**, 2021.* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
+  * *In Findings of the Association for Computational Linguistics: **EMNLP**, 2021.* \| [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
 
+
+###### **[P2] [Method and Apparatus for Dialogue State Tracking for Use in Goal-oriented Dialog System]()**
+  * **Hwaran Lee**, Jinsik Lee, Tae-Yoon Kim
+  * *Korea Patent Application 10-2019-0086380, filed July 2019, Patent Pending.*
+  * *PCT/KR2020/008832, ﬁled July 2020, Patent Pending.*
 
 ---
 
 ### 2019
 
+###### **[P1] [Method and Apparatus for Providing Hybrid Intelligent Customer Consultation]()**
+  * Tae-Yoon Kim, Jin Kim, Hyungjoon Kim, Jinsik Lee, **Hwaran Lee**, Heewon Jeon, Seokhwan Jo
+  * *Korea Patent Application 10-2019-0136035, filed October 2019, Patent Pending.*
+
 ###### **[C4] [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/abs/1907.07421)**
   * **Hwaran Lee** *, Jinsik Lee *, and Tae-Yoon Kim
-  * *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
+  * *In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics **(ACL)**, 2019.* \| [`pdf`](https://arxiv.org/abs/1907.07421.pdf) \| [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](2019_ACL_SUMB_poster.pdf)
 
 ###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8528843)**
   * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, Sang-Hoon Oh, and Soo-Young Lee
@@ -81,7 +93,6 @@ nav: true
 
 ---
 
-
 ### 2016
 
 ###### **[J3] [Deep CNNs Along the Time Axis With Intermap Pooling for Robustness to Spectral Variations](https://ieeexplore.ieee.org/abstract/document/7508979)**
@@ -89,7 +100,6 @@ nav: true
   * *IEEE Signal Processing Letters **(SPL)**, 2016.* \| [`pdf`](https://arxiv.org/pdf/1606.03207.pdf) \| [`code`](https://github.com/hwaranlee/kaldi-cnn) \| [`demo`](https://youtu.be/wKbLlqVd524)
 
 ---
-
 
 ### 2015
 

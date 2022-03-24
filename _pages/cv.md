@@ -1,9 +1,11 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /assets/pdf/cv_hwaranlee_220317.pdf
 title: cv
 description:
 nav: true
+sort_menu: 4
+
 ---
 Download [`cv`](../cv_hwaranlee_220317.pdf) (as of: 2022/03/17)
 
