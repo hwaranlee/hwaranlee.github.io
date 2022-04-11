@@ -10,6 +10,12 @@ sort_menu: 2
 
 ### Invited Talks
 
+<!--
+* Guest lectures at KAIST and SNU (topic: "")
+* topic: 
+  * *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
+  * *Seoul National Univ.*, Jun. 2022
+-->
 * Introduction to deep learning for dialogue systems, <!--\| [`slide`](191009_SMWU.pdf) -->
   * *Inha Univ.*, Seoul, Oct. 2020
   * *Yeonsei Univ.*, Seoul, Jun. 2020
@@ -19,10 +25,15 @@ sort_menu: 2
 ---
 
 ### Academic Services
+* Organizing Committee
+  * FAccT'22 CRAFT [HyperscaleFAccT]()
 * Conference Program Committee / Reviewer
-  * ARR 2021, ACL 2021, EMNLP 2021, COLING 2020
-  * NeurIPS 2021
-  * ICLR 2021-2022
+  * ARR 2021-2022
+  * ACL 2021
+  * EMNLP 2021
+  * COLING  2020, 2022
+  * NeurIPS 2021-2022
+  * ICLR  2021-2022
   * WWW 2022
   * ACL'22 [In2Writing workshop](https://in2writing.glitch.me)
 * Journal Reviewer
