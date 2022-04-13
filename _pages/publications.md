@@ -19,7 +19,8 @@ sort_menu: 3
 ---
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**:Dissertation, **P**:Patent \\
-\* indicates equal contribution among authors
+\* indicates equal contribution among authors \\
+† indicates co-corresponding authors
 
 ### 2022
 
@@ -90,16 +91,16 @@ sort_menu: 3
 
 ### 2017
 
-###### **[W3] [A Deep Chatbot for QA and Chitchat](http://convai.io/2017/)**  **`Ranked 3rd`*
+###### **[W3] [A Deep Chatbot for QA and Chitchat](http://convai.io/2017/)**
   * Geonmin Kim * , **Hwaran Lee** * , CheongAn Lee, Eunmi Hong, Byunggeun Kim, and Soo-Young Lee *(team kAIb)*
   * *The Conversational Intelligence Challenge section on NIPS 2017 Competition Track Workshop **(ConvAI, NIPS)**, 2017.* 
-  * [`pdf`](2017_convai_nips_combine.pdf) \| [`code`](https://github.com/gmkim90/kaib_nips) \| [`poster`](2017_convai_nips_poster.pdf)
+  * `Ranked 3rd` \|[`pdf`](2017_convai_nips_combine.pdf) \| [`code`](https://github.com/gmkim90/kaib_nips) \| [`poster`](2017_convai_nips_poster.pdf)
 
 
-###### **[C3] [Compositional Sentence Representation from Character within Large Context Text](https://link.springer.com/chapter/10.1007/978-3-319-70096-0_69)** **`Oral`*
+###### **[C3] [Compositional Sentence Representation from Character within Large Context Text](https://link.springer.com/chapter/10.1007/978-3-319-70096-0_69)**
   * Geonmin Kim, **Hwaran Lee**, Bo-Kyeong Kim, and Soo-Young Lee
   * *International Conference on Neural Information Processing **(ICONIP)**,  2017.* 
-  * [`pdf`](https://arxiv.org/pdf/1605.00482.pdf)
+  * `Oral` \| [`pdf`](https://arxiv.org/pdf/1605.00482.pdf)
 
 ---
 
@@ -113,11 +114,11 @@ sort_menu: 3
 ---
 
 ### 2015
-
-###### **[C2] [Hierarchical committee of deep CNNs with exponentially-weighted decision fusion for static facial expression recognition](https://dl.acm.org/citation.cfm?id=2830590)**  **`Challenge Winner`* **`Oral`*
+ 
+###### **[C2] [Hierarchical committee of deep CNNs with exponentially-weighted decision fusion for static facial expression recognition](https://dl.acm.org/citation.cfm?id=2830590)**
   * Bo-Kyeong Kim, **Hwaran Lee**, Jihyeon Roh, and Soo-Young Lee
   * *International Conference on Multimodal Interaction **(ICMI)**, 2015.*
-  * [`demo`](https://youtu.be/UG-M8aOX-gY)
+  * `Challenge Winner` \| `Oral` \|[`demo`](https://youtu.be/UG-M8aOX-gY)
 
 ###### **[C1] [Active Learning for Large-scale Object Classification: from Exploration to Exploitation](https://dl.acm.org/citation.cfm?id=2814989)**
   * Ho-Gyeong Kim, Jihyeon Roh, **Hwaran Lee**, Geonmin Kim, and Soo-Young Lee
