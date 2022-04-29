@@ -28,13 +28,15 @@ sort_menu: 3
   * Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
   * *In Findings of the Association for Computational Linguistics: **NAACL**, 2022. (to appear)*  
   
-###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA]()**
+###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA](https://arxiv.org/abs/2204.12785)**
   * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
   * *In Findings of the Association for Computational Linguistics: **ACL**, 2022. (to appear)*
+  * [`pdf`](https://arxiv.org/abs/2204.12785)
   
-###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models]()**
+###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://johnr0.github.io/assets/publications/CHI2022-TaleBrush.pdf)**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
   * *In Proceedings of the 2022 **CHI** Conference on Human Factors in Computing Systems, 2022. (to appear)*
+  * [`pdf`](https://johnr0.github.io/assets/publications/CHI2022-TaleBrush.pdf)
 
 ---
 

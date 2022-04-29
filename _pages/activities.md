@@ -26,7 +26,7 @@ sort_menu: 2
 
 ### Academic Services
 * Organizing Committee
-  * FAccT'22 CRAFT [HyperscaleFAccT]()
+  * [FAccT'22 CRAFT](https://facctconference.org/2022/acceptedcraft.html#fair) [HyperscaleFAccT](https://naver-career.gitbook.io/en/teams/clova-cic/events/hyperscalefacct-facct-2022)
 * Conference Program Committee / Reviewer
   * ARR 2021-2022
   * ACL 2021
