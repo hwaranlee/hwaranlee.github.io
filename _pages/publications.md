@@ -33,15 +33,15 @@ sort_menu: 3
   * *In Findings of the Association for Computational Linguistics: **ACL**, 2022. (to appear)*
   * [`pdf`](https://arxiv.org/abs/2204.12785)
 
-###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://johnr0.github.io/assets/publications/CHI2022-TaleBrush.pdf)**
+###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491102.3501819)**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
   * *In Proceedings of the 2022 **CHI** Conference on Human Factors in Computing Systems, 2022. (to appear)*
-  * [`pdf`](https://johnr0.github.io/assets/publications/CHI2022-TaleBrush.pdf)
+  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491102.3501819)
 
 ###### **[W4] [TaleBrush: Visual Sketching of Story Generation with Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491101.3519873)**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
   * *CHI EA '22: CHI Conference on Human Factors in Computing Systems Extended Abstracts*
-  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491101.3519873) | [`video`](https://www.youtube.com/watch?v=LXqCT2nN3nU)
+  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491101.3519873) \| [`video`](https://www.youtube.com/watch?v=LXqCT2nN3nU)
 
 ---
 
