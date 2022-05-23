@@ -24,6 +24,10 @@ sort_menu: 3
 
 ### 2022
 
+###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT]()**
+  * Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
+  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing, 2022 (to appear)*
+
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking]()**
   * Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
   * *In Findings of the Association for Computational Linguistics: **NAACL**, 2022. (to appear)*  
@@ -63,6 +67,8 @@ sort_menu: 3
   * **Hwaran Lee**, Jinsik Lee, Tae-Yoon Kim
   * *Korea Patent Application 10-2019-0086380, filed July 2019, Patent Pending.*
   * *PCT/KR2020/008832, ﬁled July 2020, Patent Pending.*
+  * *China Patent 202080051265.8, filed July 7, 2020, Patent Pending.*
+  * *US Patent 17/619,568, filed July 7, 2020, Patent Pending*
 
 ---
 
