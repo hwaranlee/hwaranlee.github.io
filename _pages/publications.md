@@ -24,18 +24,22 @@ sort_menu: 3
 
 ### 2022
 
+###### **[A1] [Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics]()**
+  * Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
+  * [`pdf`](https://arxiv.org/abs/2205.12221)
+
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT]()**
   * Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
-  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing, 2022 (to appear)*
+  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing, 2022*
 
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking]()**
   * Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-  * *In Findings of the Association for Computational Linguistics: **NAACL**, 2022. (to appear)*  
+  * *In Findings of the Association for Computational Linguistics: **NAACL**, 2022.)*  
   * [`pdf`](https://arxiv.org/abs/2205.02035)
   
 ###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA](https://arxiv.org/abs/2204.12785)**
   * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
-  * *In Findings of the Association for Computational Linguistics: **ACL**, 2022. (to appear)*
+  * *In Findings of the Association for Computational Linguistics: **ACL**, 2022.*
   * [`pdf`](https://arxiv.org/abs/2204.12785)
 
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491102.3501819)**

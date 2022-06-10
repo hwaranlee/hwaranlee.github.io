@@ -2,7 +2,7 @@
 layout: page
 permalink: /activities/
 title: activities
-description: 
+description:
 nav: true
 sort_menu: 2
 
@@ -10,17 +10,14 @@ sort_menu: 2
 
 ### Invited Talks
 
-<!--
-* Guest lectures at KAIST and SNU (topic: "")
-* topic: 
+* Guest lectures, **Ethical Problems in Language Models: Toxicity, Bias, and Morality**
   * *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
-  * *Seoul National Univ.*, Jun. 2022
--->
-* Introduction to deep learning for dialogue systems, <!--\| [`slide`](191009_SMWU.pdf) -->
+  * *Seoul National Univ.*, [AI773](https://ai773.github.io/spring-2022/) Jun. 2022
+* **Introduction to deep learning for dialogue systems**, <!--\| [`slide`](191009_SMWU.pdf) -->
   * *Inha Univ.*, Seoul, Oct. 2020
   * *Yeonsei Univ.*, Seoul, Jun. 2020
   * *Sookmyung Women's Univ.*, Seoul, Oct. 2019
-* Toward end-to-end neural dialog systems for multi-domain task completion, *KAIST*, Daejeon, Dec. 2019  <!-- \| [`slide (TBD)`]() -->
+* **Toward end-to-end neural dialog systems for multi-domain task completion**, *KAIST*, Daejeon, Dec. 2019  <!-- \| [`slide (TBD)`]() -->
 
 ---
 
