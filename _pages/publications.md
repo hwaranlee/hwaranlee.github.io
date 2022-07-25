@@ -31,16 +31,17 @@ sort_menu: 3
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT]()**
   * Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
   * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing, 2022*
+  * [`pdf`](https://aclanthology.org/2022.gebnlp-1.27.pdf)
 
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking]()**
   * Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
   * *In Findings of the Association for Computational Linguistics: **NAACL**, 2022.)*  
-  * [`pdf`](https://arxiv.org/abs/2205.02035)
+  * [`pdf`](https://aclanthology.org/2022.findings-naacl.76.pdf)
   
 ###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA](https://arxiv.org/abs/2204.12785)**
   * Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
   * *In Findings of the Association for Computational Linguistics: **ACL**, 2022.*
-  * [`pdf`](https://arxiv.org/abs/2204.12785)
+  * [`pdf`](https://aclanthology.org/2022.findings-acl.37.pdf)
 
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491102.3501819)**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang

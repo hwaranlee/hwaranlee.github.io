@@ -27,7 +27,7 @@ sort_menu: 2
 * Conference Program Committee / Reviewer
   * ARR 2021-2022
   * ACL 2021
-  * EMNLP 2021
+  * EMNLP 2021-2022
   * COLING  2020, 2022
   * NeurIPS 2021-2022
   * ICLR  2021-2022
