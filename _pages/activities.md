@@ -10,9 +10,19 @@ sort_menu: 2
 
 ### Invited Talks
 
-* Guest lectures, **Ethical Problems in Language Models: Toxicity, Bias, and Morality**
+<!-- 
+자문/세미나
+* SPRi Aug. Sep. 2022
+
+Pannel
+* Pannel at 법률인공지능의 현황과 미래, 한국인공지능법학회 하계공계세미나, Aug. 2022
+* 찾기쉬운 생활 법령정보 세미나, Nov. 2022
+ -->
+
+* Guest lectures, **Ethical Problems in Language Models**
   * *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
   * *Seoul National Univ.*, [AI773](https://ai773.github.io/spring-2022/) Jun. 2022
+  * *Hanyang Univ.* Sep. 2022
 * **Introduction to deep learning for dialogue systems**, <!--\| [`slide`](191009_SMWU.pdf) -->
   * *Inha Univ.*, Seoul, Oct. 2020
   * *Yeonsei Univ.*, Seoul, Jun. 2020
@@ -30,7 +40,7 @@ sort_menu: 2
   * EMNLP 2021-2022
   * COLING  2020, 2022
   * NeurIPS 2021-2022
-  * ICLR  2021-2022
+  * ICLR  2021-2023
   * WWW 2022
   * ACL'22 [In2Writing workshop](https://in2writing.glitch.me)
 * Journal Reviewer
