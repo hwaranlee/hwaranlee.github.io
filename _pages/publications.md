@@ -26,6 +26,7 @@ sort_menu: 3
 
 ###### **[A1] [Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics]()**
   * Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
+  * *Arxiv*
   * [`pdf`](https://arxiv.org/abs/2205.12221)
 
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT]()**
@@ -35,7 +36,7 @@ sort_menu: 3
 
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking]()**
   * Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-  * *In **Findings of NAACL**, 2022.)*  
+  * *In **Findings of NAACL**, 2022.*  
   * [`pdf`](https://aclanthology.org/2022.findings-naacl.76.pdf)
   
 ###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA](https://arxiv.org/abs/2204.12785)**
@@ -64,7 +65,7 @@ sort_menu: 3
 
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
   * Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-  * *In Findings of the Association for Computational Linguistics: **EMNLP**, 2021.* 
+  * *In **Findings of EMNLP**, 2021.* 
   * [`pdf`](https://arxiv.org/abs/2004.06698.pdf) \| [`code`](https://github.com/gicheonkang/sglkt-visdial)
 
 
