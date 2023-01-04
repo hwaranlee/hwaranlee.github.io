@@ -24,7 +24,7 @@ sort_menu: 3
 
 ### 2022
 
-###### **[A1] [Critic-Guided Decoding for Controlled Text Generation]()**
+###### **[A2] [Critic-Guided Decoding for Controlled Text Generation]()**
   * Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
   * *Arxiv*
   * [`pdf`](https://arxiv.org/abs/2212.10938)
