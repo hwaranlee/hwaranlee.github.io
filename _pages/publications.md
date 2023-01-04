@@ -24,6 +24,12 @@ sort_menu: 3
 
 ### 2022
 
+###### **[A1] [Critic-Guided Decoding for Controlled Text Generation]()**
+  * Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
+  * *Arxiv*
+  * [`pdf`](https://arxiv.org/abs/2212.10938)
+
+
 ###### **[A1] [Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics]()**
   * Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
   * *Arxiv*
