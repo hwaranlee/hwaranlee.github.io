@@ -10,24 +10,17 @@ sort_menu: 2
 
 ### Invited Talks
 
-<!-- 
-자문/세미나
-* SPRi Aug. Sep. 2022
-
-Pannel
-* Pannel at 법률인공지능의 현황과 미래, 한국인공지능법학회 하계공계세미나, Aug. 2022
-* 찾기쉬운 생활 법령정보 세미나, Nov. 2022
- -->
-
-* Guest lectures, **Ethical Problems in Language Models**
-  * *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
-  * *Seoul National Univ.*, [AI773](https://ai773.github.io/spring-2022/) Jun. 2022
-  * *Hanyang Univ.* Sep. 2022
-* **Introduction to deep learning for dialogue systems**, <!--\| [`slide`](191009_SMWU.pdf) -->
-  * *Inha Univ.*, Seoul, Oct. 2020
-  * *Yeonsei Univ.*, Seoul, Jun. 2020
-  * *Sookmyung Women's Univ.*, Seoul, Oct. 2019
-* **Toward end-to-end neural dialog systems for multi-domain task completion**, *KAIST*, Daejeon, Dec. 2019  <!-- \| [`slide (TBD)`]() -->
+* Invited talk, **Ethical Problems in Language Models**, *GIST*, Feb. 2023
+* Invited talk, **법률 인공지능 기술의 현황 및 생활법령정보 적용을 위한 제언**, *찾기쉬운 생활 법령정보 세미나, 한국법령정보원, 법제처*, Sep. 2022
+* Invited talk, **언어모델, 그리고 AI 윤리와 정책**, *SPRi*, Sep. 2022
+* Invited talk, **Ethical Problems in Language Models**, *Hanyang Univ.* Sep. 2022
+* Pannel discussion, **법률인공지능의 현황과 미래**, 한국인공지능법학회 하계공계세미나, Aug. 2022
+* Invited talk, **Ethical Problems in Language Models**, *Seoul National Univ.*, [AI773](https://ai773.github.io/spring-2022/) Jun. 2022
+* Invited talk, **Ethical Problems in Language Models**, *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
+* Invited talk, **Introduction to deep learning for dialogue systems**, *Inha Univ.*, Seoul, Oct. 2020
+* Invited talk, **Introduction to deep learning for dialogue systems**, *Yeonsei Univ.*, Seoul, Jun. 2020, [`slide`](../invited_talks/200619_lec_ys.pdf)
+* Invited talk, **Introduction to deep learning for dialogue systems**, *Sookmyung Women's Univ.*, Seoul, Oct. 2019
+* Invited talk, **Toward end-to-end neural dialog systems for multi-domain task completion**, *KAIST*, Daejeon, Dec. 2019 
 
 ---
 
@@ -36,7 +29,7 @@ Pannel
   * [FAccT'22 CRAFT](https://facctconference.org/2022/acceptedcraft.html#fair) [HyperscaleFAccT](https://naver-career.gitbook.io/en/teams/clova-cic/events/hyperscalefacct-facct-2022)
 * Conference Program Committee / Reviewer
   * ARR 2021-2022
-  * ACL 2021
+  * ACL 2021-2023
   * EMNLP 2021-2022
   * COLING  2020, 2022
   * NeurIPS 2021-2022
