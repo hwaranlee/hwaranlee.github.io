@@ -21,7 +21,7 @@ sort_menu: 1
 
 Hi! I am a research scientist at [NAVER AI Lab](https://clova.ai/en/), working on natural language processing and machine learning. My current primary research interests are controllable language generation, dialog systems, and safety & ethics for AI.
 
-I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) in 2018. During my Ph.D., I was fortunate to be advised by [Prof. Soo-Young Lee](http://cnsl.kaist.ac.kr). In 2012, I obtained B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr). Before joining [NAVER AI LAb](https://clova.ai/en/), I worked at [SK T-Brain](https://skt.ai) as a research scientist from 2018 to 2021. During the working periods, I researched and developed task-oriented dialog systems and AutoML for various natural language processing tasks.
+I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) in 2018. During my Ph.D., I was fortunate to be advised by [Prof. Soo-Young Lee](http://cnsl.kaist.ac.kr). In 2012, I obtained B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr). Before joining [NAVER AI Lab](https://clova.ai/en/), I worked at [SK T-Brain](https://skt.ai) as a research scientist from 2018 to 2021. During the working periods, I researched and developed task-oriented dialog systems and AutoML for various natural language processing tasks.
 
 Contact me via email: `{first_name}.{last_name}@gmail.com`
 
