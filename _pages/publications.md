@@ -22,18 +22,29 @@ sort_menu: 3
 \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
 
-### 2022
+### 2023
 
-###### **[A2] [Critic-Guided Decoding for Controlled Text Generation]()**
+###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration]()**
+  * **Hwaran Lee** *, **Seokhee Hong** *, Joonsuk Park, Takyoung Kim, Meeyoung Cha, Yejin Choi, Byoungpil Kim, Gunhee Kim, Eun-Ju Lee, Yong Lim, Alice Oh, Sangchul Park and Jung-Woo Ha
+  * ***ACL 2023***
+  * [`pdf (TBA)`]()
+
+###### **[C11] [Query-Efficient Black-Box Red Teaming via Bayesian Optimization]()**
+  * Deokjae Lee, JunYeong Lee, Jung-Woo Ha, Jin-Hwa Kim, Sang-Woo Lee, **Hwaran Lee** and Hyun Oh Song
+  * ***ACL 2023***
+  * [`pdf (TBA)`]()
+
+###### **[C10] [Critic-Guided Decoding for Controlled Text Generation]()**
   * Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-  * *Arxiv*
+  * *In **Findings of ACL**, 2023.*
   * [`pdf`](https://arxiv.org/abs/2212.10938)
 
-
-###### **[A1] [Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics]()**
+###### **[C9] [Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics]()**
   * Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
-  * *Arxiv*
+  * *In **Findings of ACL**, 2023.*
   * [`pdf`](https://arxiv.org/abs/2205.12221)
+
+### 2022
 
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT]()**
   * Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
@@ -53,12 +64,12 @@ sort_menu: 3
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491102.3501819)**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
   * *In Proceedings of the 2022 **CHI** Conference on Human Factors in Computing Systems, 2022.*
-  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491102.3501819)
+  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491102.3501819) \| [`video`](https://www.youtube.com/watch?v=LXqCT2nN3nU)
 
 ###### **[W4] [TaleBrush: Visual Sketching of Story Generation with Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491101.3519873)**
   * John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
   * *CHI EA '22: CHI Conference on Human Factors in Computing Systems Extended Abstracts*
-  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491101.3519873) \| [`video`](https://www.youtube.com/watch?v=LXqCT2nN3nU)
+  * [`pdf`](https://dl.acm.org/doi/pdf/10.1145/3491101.3519873)
 
 ---
 

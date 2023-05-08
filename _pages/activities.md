@@ -32,7 +32,7 @@ sort_menu: 2
   * ACL 2021-2023
   * EMNLP 2021-2022
   * COLING  2020, 2022
-  * NeurIPS 2021-2022
+  * NeurIPS 2021-2023
   * ICLR  2021-2022
   * WWW 2022
   * ACL'22 [In2Writing workshop](https://in2writing.glitch.me)
