@@ -53,7 +53,7 @@ sort_menu: 3
 
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT]()**
   * Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
-  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing, 2022*
+  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing (@ NAACL workshop), 2022*
   * [`pdf`](https://aclanthology.org/2022.gebnlp-1.27.pdf)
 
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking]()**
