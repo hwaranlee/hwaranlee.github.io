@@ -44,7 +44,7 @@ sort_menu: 3
   * *In **Findings of ACL**, 2023.*
   * [`pdf`](https://arxiv.org/abs/2212.10938)
 
-###### **[C9] [Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics]()**
+###### **[C9] [ClaimDiff: Comparing and Contrasting Claims on Contentious Topics]()**
   * Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
   * *In **Findings of ACL**, 2023.*
   * [`pdf`](https://arxiv.org/abs/2205.12221)
