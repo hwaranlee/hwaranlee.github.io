@@ -10,7 +10,6 @@ sort_menu: 2
 
 ### Invited Talks
 * Invited talk, **Ethical Problems in Language Models**, *GIST*, Feb. 2023
-* 
   <details>
   <summary> Before 2023 </summary>
   <div markdown="1">
@@ -46,8 +45,7 @@ sort_menu: 2
 * Journal Reviewer
   * Speech Communication, 2019
   * IEEE Transactions on Neural Networks and Learning Systems, 2017 - 2018
-  * Neural Processing Letters, 2015
-* 
+  * Neural Processing Letters, 2015 
   <details>
   <summary> Misc. </summary>
   <div markdown="1">
