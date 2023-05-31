@@ -30,15 +30,17 @@ sort_menu: 3
   * Taehyun Lee*, Seokhee Hong*, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
   * ***Arxiv**, 2023*
 
-###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications]()**
+###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
   * **Hwaran Lee** *, Seokhee Hong *, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
   * ***ACL**, 2023*
+  * [`code&dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
-###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration]()**
+###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration](https://arxiv.org/abs/2305.17696)**
   * **Hwaran Lee** *, Seokhee Hong *, Joonsuk Park, Takyoung Kim, Meeyoung Cha, Yejin Choi, Byoungpil Kim, Gunhee Kim, Eun-Ju Lee, Yong Lim, Alice Oh, Sangchul Park and Jung-Woo Ha
   * ***ACL**, 2023*
+  * [`code&dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
-###### **[C11] [Query-Efficient Black-Box Red Teaming via Bayesian Optimization]()**
+###### **[C11] [Query-Efficient Black-Box Red Teaming via Bayesian Optimization](https://arxiv.org/abs/2305.17444)**
   * Deokjae Lee, JunYeong Lee, Jung-Woo Ha, Jin-Hwa Kim, Sang-Woo Lee, **Hwaran Lee** and Hyun Oh Song
   * ***ACL**, 2023*
 
