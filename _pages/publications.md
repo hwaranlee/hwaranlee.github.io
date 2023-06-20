@@ -27,12 +27,12 @@ sort_menu: 3
 ### 2023
 
 ###### **[A1] [Who Wrote this Code? Watermarking for Code Generation](https://arxiv.org/abs/2305.15060)**
-  * Taehyun Lee*, Seokhee Hong*, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
+  * Taehyun Lee *, Seokhee Hong *, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
   * ***Arxiv**, 2023*
 
 ###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
   * **Hwaran Lee** *, Seokhee Hong *, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
-  * ***ACL**, 2023*
+  * ***ACL**, 2023 (Oral)*
   * [`code&dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration](https://arxiv.org/abs/2305.17696)**
@@ -43,10 +43,12 @@ sort_menu: 3
 ###### **[C11] [Query-Efficient Black-Box Red Teaming via Bayesian Optimization](https://arxiv.org/abs/2305.17444)**
   * Deokjae Lee, JunYeong Lee, Jung-Woo Ha, Jin-Hwa Kim, Sang-Woo Lee, **Hwaran Lee** and Hyun Oh Song
   * ***ACL**, 2023*
+  * [`code`](https://github.com/snu-mllab/Bayesian-Red-Teaming)
 
 ###### **[C10] [Critic-Guided Decoding for Controlled Text Generation](https://arxiv.org/abs/2212.10938)**
   * Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
   * ***ACL** (Findings), 2023*
+  * [`code`](https://github.com/minbeomkim/CriticControl)
 
 ###### **[C9] [ClaimDiff: Comparing and Contrasting Claims on Contentious Topics](https://arxiv.org/abs/2205.12221)**
   * Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
