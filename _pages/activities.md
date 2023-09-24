@@ -9,7 +9,13 @@ sort_menu: 2
 ---
 
 ### Invited Talks
-* Invited talk, **Ethical Problems in Language Models**, *GIST*, Feb. 2023
+* Invited talk, **Ethical Problems and Safety of Large Language Models**
+  * *SNU*, Nov. 2023
+  * *HKUST*, Nov. 2023
+  * *KAIST*, Sept. & Oct. 2023
+  * *GIST*, Feb. & Nov. 2023
+  * *대전특허법원*, Apr. 2023
+  * *한국정보처리학회*, Apr. 2023
   <details>
   <summary> Before 2023 </summary>
   <div markdown="1">
@@ -33,13 +39,15 @@ sort_menu: 2
 ### Academic Services
 * Organizing Committee
   * [FAccT'22 CRAFT](https://facctconference.org/2022/acceptedcraft.html#fair) [HyperscaleFAccT](https://naver-career.gitbook.io/en/teams/clova-cic/events/hyperscalefacct-facct-2022)
-* Conference Program Committee / Reviewer
+* Area Chair
+  * NeurIPS Data & Benchmark 2023
+* Conference Reviewer
   * ARR 2021-2022
   * ACL 2021-2023
   * EMNLP 2021-2022
   * COLING  2020, 2022
   * NeurIPS 2021-2023
-  * ICLR  2021-2022
+  * ICLR  2021-2024
   * WWW 2022
   * ACL'22 [In2Writing workshop](https://in2writing.glitch.me)
 * Journal Reviewer

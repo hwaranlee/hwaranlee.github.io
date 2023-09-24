@@ -27,13 +27,13 @@ sort_menu: 3
 ### 2023
 
 
-###### **[A3] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**
+###### **[A2] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**
   * Jiho Jin, Jiseon Kim, Nayeon Lee, Haneul Yoo, Alice Oh, **Hwaran Lee**
   * ***Arxiv**, 2023*
 
-###### **[A2] [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)**
+###### **[C14] [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)**
   * Siwon Kim, Sangdoo Yun, **Hwaran Lee**, Martin Gubri, Sungroh Yoon, Seong Joon Oh
-  * ***Arxiv**, 2023*
+  * ***NeurIPS(Spotlight)**, 2023*
 
 ###### **[A1] [Who Wrote this Code? Watermarking for Code Generation](https://arxiv.org/abs/2305.15060)**
   * Taehyun Lee *, Seokhee Hong *, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
