@@ -25,7 +25,10 @@ sort_menu: 3
 † indicates corresponding authors
 
 ### 2023
-
+###### **[A3] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2310.08491)**
+  * Seungone Kim*, Jamin Shin*, Yejin Cho*, Joel Jang, Shayne Longpre, **Hwaran Lee**, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo
+  * ***Arxiv**, 2023*
+  * [`project page`](https://kaistai.github.io/prometheus/) | [`code & datset`](https://github.com/kaistAI/Prometheus) | [`model`](https://kaistai.github.io/prometheus/) 
 
 ###### **[A2] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**
   * Jiho Jin, Jiseon Kim, Nayeon Lee, Haneul Yoo, Alice Oh, **Hwaran Lee**
@@ -42,12 +45,12 @@ sort_menu: 3
 ###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
   * **Hwaran Lee** *, Seokhee Hong *, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
   * ***ACL**, 2023*
-  * [`code&dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
+  * [`code & dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration](https://arxiv.org/abs/2305.17696)**
   * **Hwaran Lee** *, Seokhee Hong *, Joonsuk Park, Takyoung Kim, Meeyoung Cha, Yejin Choi, Byoungpil Kim, Gunhee Kim, Eun-Ju Lee, Yong Lim, Alice Oh, Sangchul Park and Jung-Woo Ha
   * ***ACL**, 2023 (Oral, Best Paper Nominated)*
-  * [`code&dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
+  * [`code & dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C11] [Query-Efficient Black-Box Red Teaming via Bayesian Optimization](https://arxiv.org/abs/2305.17444)**
   * Deokjae Lee, JunYeong Lee, Jung-Woo Ha, Jin-Hwa Kim, Sang-Woo Lee, **Hwaran Lee** and Hyun Oh Song
@@ -70,7 +73,7 @@ sort_menu: 3
 
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT](https://aclanthology.org/2022.gebnlp-1.27/)**
   * Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
-  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing (@ ***NAACL workshop***), 2022*
+  * *In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing (@ **NAACL workshop** *), 2022*
 
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking](https://aclanthology.org/2022.findings-naacl.76)**
   * Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
