@@ -9,30 +9,41 @@ sort_menu: 2
 ---
 
 ### Invited Talks
-* Invited talk, **Ethical Problems and Safety of Large Language Models**
-  * *SNU*, Nov. 2023
-  * *HKUST*, Nov. 2023
-  * *KAIST*, Sept. & Oct. 2023
-  * *GIST*, Feb. & Nov. 2023
-  * *대전특허법원*, Apr. 2023
-  * *한국정보처리학회*, Apr. 2023
-  <details>
-  <summary> Before 2023 </summary>
-  <div markdown="1">
+* 12/2023 Invited talk at Sogang University
+* 12/2023 Talk and Pannelist at ICEI 2023
+* 11/2023 Invited talk at GIST
+* 11/2023 Guest lecture at HKUST [(DSA 6000I)](https://github.com/DSA-MLOPS/DSAA6000I)
+* 11/2023 Invited talk at Korea University
+* 11/2023 Talk and Pannelist at NRC-KAIST Symposium
+* 11/2023 Guest lecture at Seoul National University [(AI773)](https://naver-ai.github.io/202302-AI773/schedule.html)
+* 11/2023 Invited talk at [K-Travel Tech Summit](https://witevents.com/witseoul/programme/ktraveltechsummit/)
+* 10/2023 Invited talk at KAIST & IBS
+* 10/2023 Invited talk at University of Tubingen
+* 09/2023 Keynote at [2023 IT21](https://it21.kips.or.kr), Korea Information Processing Society
+* 09/2023 Invited talk at KAIST
+* 08/2023 Talk at [NAVER DAN23](https://campaign.naver.com/dan23_en/)
+* 05/2023 Invited talk at Seoul National University
+* 05/2023 Invited talk at the 2nd Forum on Artificial Intelligence Ethics and Policy, organized by the Ministry of Science and ICT, South Korea
+* 04/2023 Invited talk at Intellectual Property High Court (대전특허법원)
+* 02/2023 Invited talk at Gwangju Institute of Science and Technology (GIST)
+
+<details>
+<summary> Before 2023 </summary>
+<div markdown="1">
 
   * Invited talk, **법률 인공지능 기술의 현황 및 생활법령정보 적용을 위한 제언**, *찾기쉬운 생활 법령정보 세미나, 한국법령정보원, 법제처*, Sep. 2022
   * Invited talk, **언어모델, 그리고 AI 윤리와 정책**, *SPRi*, Sep. 2022
   * Invited talk, **Ethical Problems in Language Models**, *Hanyang Univ.* Sep. 2022
   * Pannel discussion, **법률인공지능의 현황과 미래**, 한국인공지능법학회 하계공계세미나, Aug. 2022
-  * Invited talk, **Ethical Problems in Language Models**, *Seoul National Univ.*, [AI773](https://ai773.github.io/spring-2022/) Jun. 2022
-  * Invited talk, **Ethical Problems in Language Models**, *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
+  * Guest lecture, **Ethical Problems in Language Models**, *Seoul National Univ.*, [AI773](https://ai773.github.io/spring-2022/) Jun. 2022
+  * Guest lecture, **Ethical Problems in Language Models**, *KAIST*, [AI599](https://ai599.github.io/spring-2022/), Jun. 2022
   * Invited talk, **Introduction to deep learning for dialogue systems**, *Inha Univ.*, Seoul, Oct. 2020
   * Invited talk, **Introduction to deep learning for dialogue systems**, *Yeonsei Univ.*, Seoul, Jun. 2020, [`slide`](../invited_talks/200619_lec_ys.pdf)
   * Invited talk, **Introduction to deep learning for dialogue systems**, *Sookmyung Women's Univ.*, Seoul, Oct. 2019
   * Invited talk, **Toward end-to-end neural dialog systems for multi-domain task completion**, *KAIST*, Daejeon, Dec. 2019 
   
-  </div>
-  </details>
+</div>
+</details>
 
 ---
 
@@ -63,6 +74,12 @@ sort_menu: 2
 
   </div>
   </details>
+
+---
+
+### External Activities
+
+* 04/2023-present A committee member of the 2nd Forum on Artificial Intelligence Ethics and Policy, organized by the Ministry of Science and ICT, South Korea (과기정통부 AI윤리포럼 기술분과 위원)
 
 ---
 

@@ -28,6 +28,7 @@ sort_menu: 3
 ###### **[A3] [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models](https://arxiv.org/abs/2310.08491)**
   * Seungone Kim *, Jamin Shin *, Yejin Cho *, Joel Jang, Shayne Longpre, **Hwaran Lee**, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo
   * ***Arxiv**, 2023*
+  * *Instruction Workshop @ NeurIPS 2023*
   * [`project page`](https://kaistai.github.io/prometheus/) \| [`code & datset`](https://github.com/kaistAI/Prometheus) \| [`model`](https://kaistai.github.io/prometheus/) 
 
 ###### **[A2] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**

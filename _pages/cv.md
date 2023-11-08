@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/cv_HwaranLee_230621.pdf
+permalink: /assets/pdf/cv_HwaranLee_231027.pdf
 title: cv
 description:
 nav: true
