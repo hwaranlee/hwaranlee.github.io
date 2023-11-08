@@ -65,15 +65,16 @@ sort_menu: 2
   * Speech Communication, 2019
   * IEEE Transactions on Neural Networks and Learning Systems, 2017 - 2018
   * Neural Processing Letters, 2015 
-  <details>
-  <summary> Misc. </summary>
-  <div markdown="1">
+  
+<details>
+<summary> Misc. </summary>
+<div markdown="1">
 
-    * Samsung Humantech Paper Awards Committee, 2020
-    * Qualcomm Innovation Awards Committee, 2019
+  * Samsung Humantech Paper Awards Committee, 2020
+  * Qualcomm Innovation Awards Committee, 2019
 
-  </div>
-  </details>
+</div>
+</details>
 
 ---
 
