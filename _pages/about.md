@@ -25,4 +25,4 @@ I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Scien
 
 Contact me via email: `{first_name}.{last_name}@gmail.com`
 
-📣 **I'm recruiting research interns! Please check more out at [👉here](https://noto.li/w6Ls1h)**
+📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**
