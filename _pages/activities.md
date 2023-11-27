@@ -14,7 +14,7 @@ sort_menu: 2
 * 11/2023 Invited talk at GIST
 * 11/2023 Guest lecture at HKUST [(DSA 6000I)](https://github.com/DSA-MLOPS/DSAA6000I)
 * 11/2023 Invited talk at Korea University
-* 11/2023 Talk and Pannelist at NRC-KAIST Symposium
+* 11/2023 Talk and Pannelist at [NRC-KAIST Symposium](https://www.youtube.com/live/z61SfvANdPk?si=0oKg3xcGh9INw3BJ)
 * 11/2023 Guest lecture at Seoul National University [(AI773)](https://naver-ai.github.io/202302-AI773/schedule.html)
 * 11/2023 Invited talk at [K-Travel Tech Summit](https://witevents.com/witseoul/programme/ktraveltechsummit/)
 * 10/2023 Invited talk at KAIST & IBS

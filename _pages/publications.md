@@ -25,6 +25,10 @@ sort_menu: 3
 † indicates corresponding authors
 
 ### 2023
+###### **[A4] [LifeTox: Unveiling Implicit Toxicity in Life Advice](https://arxiv.org/abs/2311.09585)**
+  * Minbeom Kim, Jahyun Koo, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
+  * ***Arxiv**, 2023*
+
 ###### **[A3] [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models](https://arxiv.org/abs/2310.08491)**
   * Seungone Kim *, Jamin Shin *, Yejin Cho *, Joel Jang, Shayne Longpre, **Hwaran Lee**, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo
   * ***Arxiv**, 2023*
