@@ -17,7 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a lead research scientist at [NAVER AI Lab](https://clova.ai/en/), working on natural language processing and machine learning. My current primary research interests are ethics, safety, and trustworthiness of language models. Also, I am interested in controllable language generation, dialog systems, and machine learning for language models.
+Hi! I am a lead research scientist at [NAVER AI Lab](https://clova.ai/en/), working on natural language processing and machine learning.
+
+My research is committed to understanding humanity and society to further develop human-like and trustworthy Artificial Intelligence.
+Recent primary interests has been building [_trustworthy and safe Large Language Models (LLMs)_](), with a focus on:
+(1) construction of safety datasets, benchmarks, and evaluation metrics;
+(2) controllable language generation;
+(3) LLM security, including adversarial attack and red-teaming;
+(4) safety alignment and learning methods.
 
 I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) in 2018. During my Ph.D., I was fortunate to be advised by [Prof. Soo-Young Lee](). In 2012, I obtained B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr). Before joining [NAVER AI Lab](https://clova.ai/en/), I worked at [SK T-Brain]() as a research scientist from 2018 to 2021.
 

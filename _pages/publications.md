@@ -27,34 +27,34 @@ nav_order: 2
 ###### **[A4] [Calibrating Large Language Models Using Their Generations Only](https://arxiv.org/abs/2403.05973)**
 
 - Dennis Thomas Ulmer, Martin Gubri, **Hwaran Lee**, Sangdoo Yun, Seong Joon Oh
-- **\*Arxiv**, 2024\*
+- **Arxiv**, _2024_
 
 ###### **[A3] [TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification](https://arxiv.org/abs/2402.12991)**
 
 - Martin Gubri, Dennis Thomas Ulmer, **Hwaran Lee**, Sangdoo Yun, Seong Joon Oh
-- **\*Arxiv**, 2024\*
+- **Arxiv**, _2024_
 
 ###### **[A2] [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](https://arxiv.org/abs/2402.13605)**
 
 - Jiyoung Lee, Minwoo Kim, Seungho Kim, Junghwan Kim, Seunghyun Won, **Hwaran Lee**, Edward Choi
-- **\*Arxiv**, 2024\*
+- **Arxiv**, _2024_
 
 ###### **[C16] [LifeTox: Unveiling Implicit Toxicity in Life Advice](https://arxiv.org/abs/2311.09585)**
 
 - Minbeom Kim, Jahyun Koo, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
-- **\*NAACL**, 2024\*
+- **NAACL**, _2024_
 
 ###### **[C15, W6] [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models](https://arxiv.org/abs/2310.08491)**
 
-- Seungone Kim _, Jamin Shin _, Yejin Cho \*, Joel Jang, Shayne Longpre, **Hwaran Lee**, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo
-- **\*ICLR**, 2024\*
+- Seungone Kim\*, Jamin Shin\*, Yejin Cho\*, Joel Jang, Shayne Longpre, **Hwaran Lee**, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo
+- **ICLR**, _2024_
 - _Instruction Workshop @ NeurIPS 2023_
 - [`project page`](https://kaistai.github.io/prometheus/) \| [`code & datset`](https://github.com/kaistAI/Prometheus) \| [`model`](https://kaistai.github.io/prometheus/)
 
 ###### **[J7] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**
 
 - Jiho Jin, Jiseon Kim, Nayeon Lee, Haneul Yoo, Alice Oh, **Hwaran Lee**
-- **\*Transactions of the Association for Computational Linguistics (IF=9.194)**, 2024\*
+- **Transactions of the Association for Computational Linguistics (IF=9.194)**, _2024_
 - [`project page`](https://jinjh0123.github.io/KoBBQ/) \| [`code & datset`](https://github.com/naver-ai/KoBBQ/) \| [`dataset@huggingface`](https://huggingface.co/datasets/naver-ai/kobbq)
 
 ---
@@ -64,41 +64,41 @@ nav_order: 2
 ###### **[C14] [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)**
 
 - Siwon Kim, Sangdoo Yun, **Hwaran Lee**, Martin Gubri, Sungroh Yoon, Seong Joon Oh
-- **\*NeurIPS(Spotlight)**, 2023\*
+- **NeurIPS(Spotlight)**, _2023_
 
 ###### **[A1] [Who Wrote this Code? Watermarking for Code Generation](https://arxiv.org/abs/2305.15060)**
 
-- Taehyun Lee _, Seokhee Hong _, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
-- **\*Arxiv**, 2023\*
+- Taehyun Lee\*, Seokhee Hong\*, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
+- **Arxiv**, _2023_
 
 ###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
 
-- **Hwaran Lee** _, Seokhee Hong _, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
-- **\*ACL**, 2023\*
+- **Hwaran Lee**\*, Seokhee Hong\*, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
+- **ACL**, _2023_
 - [`code & dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration](https://arxiv.org/abs/2305.17696)**
 
-- **Hwaran Lee** _, Seokhee Hong _, Joonsuk Park, Takyoung Kim, Meeyoung Cha, Yejin Choi, Byoungpil Kim, Gunhee Kim, Eun-Ju Lee, Yong Lim, Alice Oh, Sangchul Park and Jung-Woo Ha
-- **\*ACL**, 2023 (Oral, Best Paper Nominated)\*
+- **Hwaran Lee**\*, Seokhee Hong\*, Joonsuk Park, Takyoung Kim, Meeyoung Cha, Yejin Choi, Byoungpil Kim, Gunhee Kim, Eun-Ju Lee, Yong Lim, Alice Oh, Sangchul Park and Jung-Woo Ha
+- **ACL**, _2023_ (Oral, Best Paper Nominated)
 - [`code & dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C11] [Query-Efficient Black-Box Red Teaming via Bayesian Optimization](https://arxiv.org/abs/2305.17444)**
 
 - Deokjae Lee, JunYeong Lee, Jung-Woo Ha, Jin-Hwa Kim, Sang-Woo Lee, **Hwaran Lee** and Hyun Oh Song
-- **\*ACL**, 2023\*
+- **ACL**, _2023_
 - [`code`](https://github.com/snu-mllab/Bayesian-Red-Teaming)
 
 ###### **[C10] [Critic-Guided Decoding for Controlled Text Generation](https://arxiv.org/abs/2212.10938)**
 
 - Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-- **\*ACL** (Findings), 2023\*
+- **ACL** (Findings), _2023_
 - [`code`](https://github.com/minbeomkim/CriticControl)
 
 ###### **[C9] [ClaimDiff: Comparing and Contrasting Claims on Contentious Topics](https://arxiv.org/abs/2205.12221)**
 
 - Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
-- **\*ACL** (Findings), 2023\*
+- **ACL** (Findings), _2023_
 - [`dataset`](https://github.com/miyoungko/ClaimDiff)
 
 ---
@@ -108,22 +108,22 @@ nav_order: 2
 ###### **[W5] [Why Knowledge Distillation Amplifies Gender Bias and How to Mitigate - from the Perspective of DistilBERT](https://aclanthology.org/2022.gebnlp-1.27/)**
 
 - Jaimeen Ahn, **Hwaran Lee**, Jin-Hwa Kim, Alice Oh
-- _In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing (@ **NAACL workshop**), 2022_
+- In Proceedings of the 4rd Workshop on Gender Bias in Natural Language Processing (@ **NAACL workshop**), _2022_
 
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking](https://aclanthology.org/2022.findings-naacl.76)**
 
 - Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-- **\*NAACL** (Findings), 2023\*
+- **NAACL** (Findings), _2022_
 
 ###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA](https://arxiv.org/abs/2204.12785)**
 
 - Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
-- **\*ACL** (Findings), 2022\*
+- **ACL** (Findings), _2022_
 
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491102.3501819)**
 
 - John Yoon Young Chung, Wooseok Kim, Kang Min Yoo, **Hwaran Lee**, Eytan Adar, Minsuk Chang
-- **\*CHI**, 2022\*
+- **CHI**, _2022_
 - [`video`](https://www.youtube.com/watch?v=LXqCT2nN3nU)
 
 ###### **[W4] [TaleBrush: Visual Sketching of Story Generation with Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491101.3519873)**
@@ -138,22 +138,27 @@ nav_order: 2
 ###### **[J6] [SUMBT+LaRL: Effective Multi-domain End-to-end Neural Task-oriented Dialog System](https://ieeexplore.ieee.org/abstract/document/9514885)**
 
 - **Hwaran Lee**, Seokhwan Jo, HyungJun Kim, Sangkeun Jung, and Tae-Yoon Kim
-- **\*IEEE Access (IF=3.9)**, 2021\*
+- **IEEE Access (IF=3.9)**, _2021_
 - [`pdf`](https://arxiv.org/pdf/2009.10447.pdf) \| [`code`](https://github.com/hwaranlee/SUMBT-LaRL)
 
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
 
 - Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-- **\*EMNLP** (Findings), 2021\*
+- **EMNLP** (Findings), _2021_
 - [`code`](https://github.com/gicheonkang/sglkt-visdial)
 
-###### **[P2] [Method and Apparatus for Dialogue State Tracking for Use in Goal-oriented Dialog System]()**
+###### **[P2] [Method and Apparatus for Providing Hybrid Intelligent Customer Consultation](ttps://patents.google.com/patent/KR102488886B1/en)**
+
+- Tae-Yoon Kim, Jin Kim, Hyungjoon Kim, Jinsik Lee, Hwaran Lee, Heewon Jeon, Seokhwan Jo
+- KR Patent KR102488886B1, filed March 2022 and issued January 2023
+
+###### **[P1] [Method and Apparatus for Dialogue State Tracking for Use in Goal-oriented Dialog System](https://patents.google.com/patent/KR102281581B1/en)**
 
 - **Hwaran Lee**, Jinsik Lee, Tae-Yoon Kim
-- _Korea Patent Application 10-2019-0086380, filed July 2019, Patent Pending._
-- _PCT/KR2020/008832, ﬁled July 2020, Patent Pending._
-- _China Patent 202080051265.8, filed July 7, 2020, Patent Pending._
-- _US Patent 17/619,568, filed July 7, 2020, Patent Pending_
+- KR Patent KR102281581B1, filed July 2019 and issued July 2021
+- CN Patent CN114127711A, filed July 2020
+- WO Patent WO2021010636A1, filed July 2020
+- US Patent US11687731B2, filed July 2020 and issued Jan 2021
 
 ---
 
@@ -161,8 +166,8 @@ nav_order: 2
 
 ###### **[C4] [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/abs/1907.07421)**
 
-- **Hwaran Lee** _, Jinsik Lee _, and Tae-Yoon Kim
-- **\*ACL**, 2019\*
+- **Hwaran Lee**\*, Jinsik Lee\*, and Tae-Yoon Kim
+- **ACL**, _2019_
 - [`code`](https://github.com/SKTBrain/SUMBT) \| [`poster`](/publications/2019_ACL_SUMB_poster.pdf)
 
 ###### **[J5] [Unpaired Speech Enhancement by Acoustic and Adversarial Supervision for Speech Recognition](https://ieeexplore.ieee.org/abstract/document/8528843)**
@@ -192,7 +197,7 @@ nav_order: 2
 
 ###### **[W3] [A Deep Chatbot for QA and Chitchat](http://convai.io/2017/)**
 
-- Geonmin Kim _ , **Hwaran Lee** _ , CheongAn Lee, Eunmi Hong, Byunggeun Kim, and Soo-Young Lee _(team kAIb)_
+- Geonmin Kim\*, **Hwaran Lee**\*, CheongAn Lee, Eunmi Hong, Byunggeun Kim, and Soo-Young Lee _(team kAIb)_
 - _The Conversational Intelligence Challenge section on NIPS 2017 Competition Track Workshop **(ConvAI, NIPS)**, 2017._
 - `Ranked 3rd` \|[`pdf`](/publications/2017_convai_nips_combine.pdf) \| [`code`](https://github.com/gmkim90/kaib_nips) \| [`poster`](/publications/2017_convai_nips_poster.pdf)
 
