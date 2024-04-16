@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/cv_hwaranlee_240317.pdf
+permalink: /assets/pdf/cv_hwaranlee_240416.pdf
 title: cv
 nav: true
 nav_order: 5
