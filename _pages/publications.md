@@ -23,26 +23,46 @@ nav_order: 2
 † indicates co-corresponding authors
 
 ### 2024
+###### **[A4] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
-###### **[A4] [Calibrating Large Language Models Using Their Generations Only](https://arxiv.org/abs/2403.05973)**
+- Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
+- **Arxiv**, _2024_
+
+###### **[A4] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
+
+- HyperCLOVA X Team, NAVER Cloud
+- **Arxiv**, _2024_
+
+###### **[C21] [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models]()**
+
+- Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, **Hwaran Lee**, Gunhee Kim
+- **ACL Findings**, _2024_
+
+###### **[C20] [Calibrating Large Language Models Using Their Generations Only](https://arxiv.org/abs/2403.05973)**
 
 - Dennis Thomas Ulmer, Martin Gubri, **Hwaran Lee**, Sangdoo Yun, Seong Joon Oh
-- **Arxiv**, _2024_
+- **ACL**, _2024_
 
-###### **[A3] [TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification](https://arxiv.org/abs/2402.12991)**
+###### **[C19] [TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification](https://arxiv.org/abs/2402.12991)**
 
 - Martin Gubri, Dennis Thomas Ulmer, **Hwaran Lee**, Sangdoo Yun, Seong Joon Oh
-- **Arxiv**, _2024_
+- **ACL Findings**, _2024_
 
-###### **[A2] [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](https://arxiv.org/abs/2402.13605)**
+###### **[C18] [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](https://arxiv.org/abs/2402.13605)**
 
 - Jiyoung Lee, Minwoo Kim, Seungho Kim, Junghwan Kim, Seunghyun Won, **Hwaran Lee**, Edward Choi
-- **Arxiv**, _2024_
+- **ACL Findings**, _2024_
+- [`project page`](https://selectstar.ai/ko/papers-national-alignment)
+
+###### **[C17] [Who Wrote this Code? Watermarking for Code Generation](https://arxiv.org/abs/2305.15060)**
+
+- Taehyun Lee\*, Seokhee Hong\*, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
+- **ACL**, _2024_
 
 ###### **[C16] [LifeTox: Unveiling Implicit Toxicity in Life Advice](https://arxiv.org/abs/2311.09585)**
 
 - Minbeom Kim, Jahyun Koo, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
-- **NAACL**, _2024_
+- **NAACL** (Short), _2024_
 
 ###### **[C15, W6] [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models](https://arxiv.org/abs/2310.08491)**
 
@@ -66,11 +86,6 @@ nav_order: 2
 - Siwon Kim, Sangdoo Yun, **Hwaran Lee**, Martin Gubri, Sungroh Yoon, Seong Joon Oh
 - **NeurIPS(Spotlight)**, _2023_
 
-###### **[A1] [Who Wrote this Code? Watermarking for Code Generation](https://arxiv.org/abs/2305.15060)**
-
-- Taehyun Lee\*, Seokhee Hong\*, Jaewoo Ahn, Ilgee Hong, **Hwaran Lee**, Sangdoo Yun, Jamin Shin†, Gunhee Kim†
-- **Arxiv**, _2023_
-
 ###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
 
 - **Hwaran Lee**\*, Seokhee Hong\*, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
@@ -92,13 +107,13 @@ nav_order: 2
 ###### **[C10] [Critic-Guided Decoding for Controlled Text Generation](https://arxiv.org/abs/2212.10938)**
 
 - Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-- **ACL** (Findings), _2023_
+- **ACL Findings**, _2023_
 - [`code`](https://github.com/minbeomkim/CriticControl)
 
 ###### **[C9] [ClaimDiff: Comparing and Contrasting Claims on Contentious Topics](https://arxiv.org/abs/2205.12221)**
 
 - Miyoung Ko, Ingyu Seong, **Hwaran Lee**, Joonsuk Park, Minsuk Chang, Minjoon Seo
-- **ACL** (Findings), _2023_
+- **ACL Findings**, _2023_
 - [`dataset`](https://github.com/miyoungko/ClaimDiff)
 
 ---
@@ -113,12 +128,12 @@ nav_order: 2
 ###### **[C8] [Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking](https://aclanthology.org/2022.findings-naacl.76)**
 
 - Hwanhee Lee, Kang Min Yoo, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
-- **NAACL** (Findings), _2022_
+- **NAACL Findings**, _2022_
 
 ###### **[C7] [Plug-and-Play Adaptation for Continuously-updated QA](https://arxiv.org/abs/2204.12785)**
 
 - Kyungjae Lee, Wookje Han, Seung-won Hwang, **Hwaran Lee**, Joonsuk Park, Sang-Woo Lee
-- **ACL** (Findings), _2022_
+- **ACL Findings**, _2022_
 
 ###### **[C6] [TaleBrush: Sketching Stories with Generative Pretrained Language Models](https://dl.acm.org/doi/10.1145/3491102.3501819)**
 
@@ -144,7 +159,7 @@ nav_order: 2
 ###### **[C5] [Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer](https://arxiv.org/abs/2004.06698)**
 
 - Gi-Cheon Kang, Junseok Park, **Hwaran Lee**, Byoung-Tak Zhang, and Jin-Hwa Kim
-- **EMNLP** (Findings), _2021_
+- **EMNLP Findings**, _2021_
 - [`code`](https://github.com/gicheonkang/sglkt-visdial)
 
 ###### **[P2] [Method and Apparatus for Providing Hybrid Intelligent Customer Consultation](ttps://patents.google.com/patent/KR102488886B1/en)**
