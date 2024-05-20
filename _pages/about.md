@@ -15,6 +15,8 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+# 📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**
 ---
 
 Hi! I am a lead research scientist at [NAVER AI Lab](https://clova.ai/en/), working on natural language processing and machine learning.
@@ -30,4 +32,3 @@ I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Scien
 
 Contact me via email: `{first_name}.{last_name}@gmail.com`
 
-📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**

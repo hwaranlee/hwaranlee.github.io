@@ -23,12 +23,12 @@ nav_order: 2
 † indicates co-corresponding authors
 
 ### 2024
-###### **[A4] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
+###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
 - Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
 - **Arxiv**, _2024_
 
-###### **[A4] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
+###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
 
 - HyperCLOVA X Team, NAVER Cloud
 - **Arxiv**, _2024_
