@@ -23,6 +23,18 @@ nav_order: 2
 † indicates co-corresponding authors
 
 ### 2024
+
+###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset]()**
+
+- Haneul Yoo, Yongjin Yang, **Hwaran Lee**
+- **Arxiv**, _2024_
+
+###### **[A3] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages]()**
+
+- Junho Myung, et al.,
+- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024_
+- **Arxiv**, _2024_
+
 ###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
 - Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
