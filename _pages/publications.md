@@ -24,7 +24,7 @@ nav_order: 2
 
 ### 2024
 
-###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset]()**
+###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - Haneul Yoo, Yongjin Yang, **Hwaran Lee**
 - **Arxiv**, _2024_
@@ -45,7 +45,7 @@ nav_order: 2
 - HyperCLOVA X Team, NAVER Cloud
 - **Arxiv**, _2024_
 
-###### **[C21] [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models]()**
+###### **[C21] [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027)**
 
 - Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, **Hwaran Lee**, Gunhee Kim
 - **ACL Findings**, _2024_
