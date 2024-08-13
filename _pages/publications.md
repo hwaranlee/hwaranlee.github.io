@@ -24,6 +24,11 @@ nav_order: 2
 
 ### 2024
 
+###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty]()**
+
+- Yongjin Yang, Haneul Yoo, **Hwaran Lee**
+- **Arxiv**, _2024_
+
 ###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - Haneul Yoo, Yongjin Yang, **Hwaran Lee**
@@ -37,7 +42,7 @@ nav_order: 2
 
 ###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
-- Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
+- Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
 - **Arxiv**, _2024_
 
 ###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
