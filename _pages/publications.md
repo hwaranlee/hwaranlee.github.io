@@ -24,7 +24,7 @@ nav_order: 2
 
 ### 2024
 
-###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty]()**
+###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
 
 - Yongjin Yang, Haneul Yoo, **Hwaran Lee**
 - **Arxiv**, _2024_
@@ -34,9 +34,9 @@ nav_order: 2
 - Haneul Yoo, Yongjin Yang, **Hwaran Lee**
 - **Arxiv**, _2024_
 
-###### **[A3] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages]()**
+###### **[A3] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/abs/2406.09948)**
 
-- Junho Myung, et al.,
+- Junho Myung\*, Nayeon Lee\*, Yi Zhou\*, Jiho Jin, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, **Hwaran Lee**, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
 - _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024 **(Best paper)**_ 
 - **Arxiv**, _2024_
 
@@ -103,12 +103,12 @@ nav_order: 2
 ###### **[C14] [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)**
 
 - Siwon Kim, Sangdoo Yun, **Hwaran Lee**, Martin Gubri, Sungroh Yoon, Seong Joon Oh
-- **NeurIPS(Spotlight)**, _2023_
+- **NeurIPS** (Spotlight), _2023_
 
 ###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
 
 - **Hwaran Lee**\*, Seokhee Hong\*, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
-- **ACL**, _2023_
+- **ACL** (Industrial Track), _2023_ 
 - [`code & dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration](https://arxiv.org/abs/2305.17696)**
