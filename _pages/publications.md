@@ -37,7 +37,7 @@ nav_order: 2
 ###### **[A3] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages]()**
 
 - Junho Myung, et al.,
-- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024_
+- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024 **(Best paper)**_ 
 - **Arxiv**, _2024_
 
 ###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
@@ -92,6 +92,8 @@ nav_order: 2
 
 - Jiho Jin, Jiseon Kim, Nayeon Lee, Haneul Yoo, Alice Oh, **Hwaran Lee**
 - **Transactions of the Association for Computational Linguistics (IF=9.194)**, _2024_
+- Presented at **ACL**, _2024_
+- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024_ 
 - [`project page`](https://jinjh0123.github.io/KoBBQ/) \| [`code & datset`](https://github.com/naver-ai/KoBBQ/) \| [`dataset@huggingface`](https://huggingface.co/datasets/naver-ai/kobbq)
 
 ---
