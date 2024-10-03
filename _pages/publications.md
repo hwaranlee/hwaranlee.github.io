@@ -37,7 +37,7 @@ nav_order: 2
 ###### **[C22] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/abs/2406.09948)**
 
 - Junho Myung\*, Nayeon Lee\*, Yi Zhou\*, Jiho Jin, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, **Hwaran Lee**, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
-- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024 **(Best paper)**_ 
+- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024 **(Best paper)**_
 - **NeurIPS Dataset & Benchmark Track**, _2024_
 
 ###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
@@ -93,7 +93,7 @@ nav_order: 2
 - Jiho Jin, Jiseon Kim, Nayeon Lee, Haneul Yoo, Alice Oh, **Hwaran Lee**
 - **Transactions of the Association for Computational Linguistics (IF=9.194)**, _2024_
 - Presented at **ACL**, _2024_
-- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024_ 
+- _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024_
 - [`project page`](https://jinjh0123.github.io/KoBBQ/) \| [`code & datset`](https://github.com/naver-ai/KoBBQ/) \| [`dataset@huggingface`](https://huggingface.co/datasets/naver-ai/kobbq)
 
 ---
@@ -108,7 +108,7 @@ nav_order: 2
 ###### **[C13] [KoSBi: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://arxiv.org/abs/2305.17701)**
 
 - **Hwaran Lee**\*, Seokhee Hong\*, Joonsuk Park, Takyoung Kim, Gunhee Kim, and Jung-Woo Ha
-- **ACL** (Industrial Track), _2023_ 
+- **ACL** (Industrial Track), _2023_
 - [`code & dataset`](https://github.com/naver-ai/korean-safety-benchmarks)
 
 ###### **[C12] [SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration](https://arxiv.org/abs/2305.17696)**
