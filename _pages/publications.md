@@ -86,7 +86,7 @@ nav_order: 2
 - Seungone Kim\*, Jamin Shin\*, Yejin Cho\*, Joel Jang, Shayne Longpre, **Hwaran Lee**, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo
 - **ICLR**, _2024_
 - _Instruction Workshop @ NeurIPS 2023_
-- [`code & datset`](https://github.com/kaistAI/Prometheus) \| [`model`](https://kaistai.github.io/prometheus/)
+- [`code & datset`](https://github.com/kaistAI/Prometheus)
 
 ###### **[J7] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**
 
