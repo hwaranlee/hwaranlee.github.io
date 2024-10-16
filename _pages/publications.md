@@ -24,6 +24,11 @@ nav_order: 2
 
 ### 2024
 
+###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
+
+- Minbeom Kim, Thibaut Thonet, Jos Rozen, Hwaran Lee, Kyomin Jung, Marc Dymetman
+- **Arxiv**, _2024_
+
 ###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
 
 - Yongjin Yang, Haneul Yoo, **Hwaran Lee**
@@ -32,6 +37,7 @@ nav_order: 2
 ###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - Haneul Yoo, Yongjin Yang, **Hwaran Lee**
+- _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_
 - **Arxiv**, _2024_
 
 ###### **[C22] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/abs/2406.09948)**
