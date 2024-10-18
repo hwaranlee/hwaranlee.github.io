@@ -6,16 +6,11 @@ description:
 nav: true
 nav_order: 2
 ---
-
-<!--
-###### **[A4] [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models]()**
-#  * Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, **Hwaran Lee**, Gunhee Kim
-#  * *Under Review*
-
-###### **[A2] [AdvisorQA: A Benchmark for Advice-seeking Question Answering with Collective Intelligence]()**
-#  * Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**, Kyomin Jung
-#  * *Under Review*
--->
+[Minbeom Kim]: https://minbeomkim.github.io
+[Thibaut Thonet]: https://scholar.google.fr/citations?user=walnalUAAAAJ
+[Jos Rozen]: https://scholar.google.fr/citations?user=OxEDKogAAAAJ
+[Kyomin Jung]: http://milab.snu.ac.kr/kjung/index.html
+[Marc Dymetman]: https://scholar.google.fr/citations?user=D6J5pooAAAAJ
 
 ---
 
@@ -26,7 +21,7 @@ nav_order: 2
 
 ###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
 
-- Minbeom Kim, Thibaut Thonet, Jos Rozen, Hwaran Lee, Kyomin Jung, Marc Dymetman
+- [Minbeom Kim], [Thibaut Thonet], Jos Rozen, **Hwaran Lee**, Kyomin Jung, Marc Dymetman
 - **Arxiv**, _2024_
 
 ###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
