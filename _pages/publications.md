@@ -12,8 +12,6 @@ nav_order: 2
 [Kyomin Jung]: http://milab.snu.ac.kr/kjung/index.html
 [Marc Dymetman]: https://scholar.google.fr/citations?user=D6J5pooAAAAJ
 
----
-
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
 
@@ -21,7 +19,7 @@ nav_order: 2
 
 ###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
 
-- [Minbeom Kim], [Thibaut Thonet], Jos Rozen, **Hwaran Lee**, Kyomin Jung, Marc Dymetman
+- [Minbeom Kim], [Thibaut Thonet], [Jos Rozen], **Hwaran Lee**, [Kyomin Jung], [Marc Dymetman]
 - **Arxiv**, _2024_
 
 ###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
