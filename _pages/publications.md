@@ -6,16 +6,29 @@ description:
 nav: true
 nav_order: 2
 ---
+
 [Minbeom Kim]: https://minbeomkim.github.io
 [Thibaut Thonet]: https://scholar.google.fr/citations?user=walnalUAAAAJ
 [Jos Rozen]: https://scholar.google.fr/citations?user=OxEDKogAAAAJ
 [Kyomin Jung]: http://milab.snu.ac.kr/kjung/index.html
 [Marc Dymetman]: https://scholar.google.fr/citations?user=D6J5pooAAAAJ
+[Haneul Yoo]: https://haneul-yoo.github.io
+[Yongjin Yang]: https://scholar.google.com/citations?user=qGVZm3sAAAAJ
+[Hwanhee Lee]: https://hwanheelee1993.github.io
+[Joonsuk Park]: http://www.mathcs.richmond.edu/~jpark/
+[Cheonbok Park]: http://sangdooyun.github.io
+[Sangdoo Yun]: http://sangdooyun.github.io
+[Alice Oh]: https://aliceoh9.github.io
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
 
 ### 2024
+
+###### **[A7] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
+
+- [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
+- **Arxiv**, _2024_
 
 ###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
 
@@ -24,12 +37,12 @@ nav_order: 2
 
 ###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
 
-- Yongjin Yang, Haneul Yoo, **Hwaran Lee**
+- [Yongjin Yang], [Haneul Yoo], **Hwaran Lee**
 - **Arxiv**, _2024_
 
 ###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
-- Haneul Yoo, Yongjin Yang, **Hwaran Lee**
+- [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
 - _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_
 - **Arxiv**, _2024_
 
@@ -41,7 +54,7 @@ nav_order: 2
 
 ###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
-- Minbeom Kim, Hwanhee Lee, Joonsuk Park, **Hwaran Lee**†, Kyomin Jung†
+- [Minbeom Kim], [Hwanhee Lee], [Joonsuk Park], **Hwaran Lee**†, [Kyomin Jung]†
 - **Arxiv**, _2024_
 
 ###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
@@ -89,7 +102,7 @@ nav_order: 2
 
 ###### **[J7] [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778)**
 
-- Jiho Jin, Jiseon Kim, Nayeon Lee, Haneul Yoo, Alice Oh, **Hwaran Lee**
+- Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, Haneul Yoo\*, Alice Oh, **Hwaran Lee**
 - **Transactions of the Association for Computational Linguistics (IF=9.194)**, _2024_
 - Presented at **ACL**, _2024_
 - _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024_
