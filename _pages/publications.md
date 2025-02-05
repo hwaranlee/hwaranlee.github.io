@@ -23,21 +23,28 @@ nav_order: 2
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
 
+### 2025
+
+###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
+
+- [Minbeom Kim], [Hwanhee Lee], [Joonsuk Park], **Hwaran Lee**†, [Kyomin Jung]†
+- **NAACL**, _2025_
+
+###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
+
+- [Yongjin Yang], [Haneul Yoo], **Hwaran Lee**
+- **NAACL Findings**, _2025_
+
+###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
+
+- [Minbeom Kim], [Thibaut Thonet], [Jos Rozen], **Hwaran Lee**, [Kyomin Jung], [Marc Dymetman]
+- **ICLR**, _2025_
+
 ### 2024
 
 ###### **[A7] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
 
 - [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
-- **Arxiv**, _2024_
-
-###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
-
-- [Minbeom Kim], [Thibaut Thonet], [Jos Rozen], **Hwaran Lee**, [Kyomin Jung], [Marc Dymetman]
-- **Arxiv**, _2024_
-
-###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
-
-- [Yongjin Yang], [Haneul Yoo], **Hwaran Lee**
 - **Arxiv**, _2024_
 
 ###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
@@ -51,11 +58,6 @@ nav_order: 2
 - Junho Myung\*, Nayeon Lee\*, Yi Zhou\*, Jiho Jin, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, **Hwaran Lee**, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
 - _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024 **(Best paper)**_
 - **NeurIPS Dataset & Benchmark Track**, _2024_
-
-###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
-
-- [Minbeom Kim], [Hwanhee Lee], [Joonsuk Park], **Hwaran Lee**†, [Kyomin Jung]†
-- **Arxiv**, _2024_
 
 ###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
 
