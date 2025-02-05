@@ -25,29 +25,29 @@ nav_order: 2
 
 ### 2025
 
-###### **[A2] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
+###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
 - [Minbeom Kim], [Hwanhee Lee], [Joonsuk Park], **Hwaran Lee**†, [Kyomin Jung]†
 - **NAACL**, _2025_
 
-###### **[A5] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
+###### **[C24]] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
 
 - [Yongjin Yang], [Haneul Yoo], **Hwaran Lee**
 - **NAACL Findings**, _2025_
 
-###### **[A6] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
+###### **[C23] [Guaranteed Generation from Large Language Models](https://arxiv.org/abs/2410.06716)**
 
 - [Minbeom Kim], [Thibaut Thonet], [Jos Rozen], **Hwaran Lee**, [Kyomin Jung], [Marc Dymetman]
 - **ICLR**, _2025_
 
 ### 2024
 
-###### **[A7] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
+###### **[A3] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
 
 - [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
 - **Arxiv**, _2024_
 
-###### **[A4] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
+###### **[A2] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
 - _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_
