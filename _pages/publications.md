@@ -30,7 +30,7 @@ nav_order: 2
 - [Minbeom Kim], [Hwanhee Lee], [Joonsuk Park], **Hwaran Lee**†, [Kyomin Jung]†
 - **NAACL**, _2025_
 
-###### **[C24]] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
+###### **[C24] [MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty](https://www.arxiv.org/abs/2408.06816)**
 
 - [Yongjin Yang], [Haneul Yoo], **Hwaran Lee**
 - **NAACL Findings**, _2025_
