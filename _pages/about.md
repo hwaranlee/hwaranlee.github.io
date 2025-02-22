@@ -19,6 +19,8 @@ social: true # includes social icons at the bottom of the page
 # 📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**
 ---
 
+**Update**: I'll be leaving NAVER and joining Sogang University in the Department of Artificial Intelligence and Computer Science in Seoul, Korea in March 2025.
+
 Hi! I am a lead research scientist at [NAVER AI Lab](https://clova.ai/en/), working on natural language processing and machine learning.
 
 My research is committed to understanding humanity and society to further develop human-like and trustworthy Artificial Intelligence.
