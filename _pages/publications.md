@@ -19,11 +19,19 @@ nav_order: 2
 [Cheonbok Park]: http://sangdooyun.github.io
 [Sangdoo Yun]: http://sangdooyun.github.io
 [Alice Oh]: https://aliceoh9.github.io
+[Kang-il Lee]: https://scholar.google.co.kr/citations?user=-YroyxsAAAAJ&hl=ko
+
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
 
 ### 2025
+
+###### **[A4] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
+
+- [Minbeom Kim], [Kang-il Lee], [Seongho Joo], **Hwaran Lee**, [Kyomin Jung]
+- _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_
+- **Arive**, _2025_
 
 ###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
