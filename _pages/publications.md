@@ -70,6 +70,7 @@ nav_order: 2
 ###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
 
 - HyperCLOVA X Team, NAVER Cloud
+- _(role: Safety Leader)_
 - **Arxiv**, _2024_
 
 ###### **[C21] [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027)**
