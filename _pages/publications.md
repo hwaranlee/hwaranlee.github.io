@@ -29,9 +29,9 @@ nav_order: 2
 
 ###### **[A4] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
-- [Minbeom Kim], [Kang-il Lee], [Seongho Joo], **Hwaran Lee**, [Kyomin Jung]
+- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
 - _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_
-- **Arive**, _2025_
+- **Arxiv**, _2025_
 
 ###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
@@ -70,7 +70,7 @@ nav_order: 2
 ###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
 
 - HyperCLOVA X Team, NAVER Cloud
-- _(role: Safety Leader)_
+- _(Role: Safety Leader)_
 - **Arxiv**, _2024_
 
 ###### **[C21] [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027)**
