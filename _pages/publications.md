@@ -8,10 +8,10 @@ nav_order: 2
 ---
 
 [Minbeom Kim]: https://minbeomkim.github.io
-[Thibaut Thonet]: https://scholar.google.fr/citations?user=walnalUAAAAJ
-[Jos Rozen]: https://scholar.google.fr/citations?user=OxEDKogAAAAJ
+[Thibaut Thonet]: https://scholar.google.com/citations?user=walnalUAAAAJ
+[Jos Rozen]: https://scholar.google.com/citations?user=OxEDKogAAAAJ
 [Kyomin Jung]: http://milab.snu.ac.kr/kjung/index.html
-[Marc Dymetman]: https://scholar.google.fr/citations?user=D6J5pooAAAAJ
+[Marc Dymetman]: https://scholar.google.com/citations?user=D6J5pooAAAAJ
 [Haneul Yoo]: https://haneul-yoo.github.io
 [Yongjin Yang]: https://scholar.google.com/citations?user=qGVZm3sAAAAJ
 [Hwanhee Lee]: https://hwanheelee1993.github.io
@@ -19,7 +19,7 @@ nav_order: 2
 [Cheonbok Park]: http://sangdooyun.github.io
 [Sangdoo Yun]: http://sangdooyun.github.io
 [Alice Oh]: https://aliceoh9.github.io
-[Kang-il Lee]: https://scholar.google.co.kr/citations?user=-YroyxsAAAAJ&hl=ko
+[Kang-il Lee]: https://scholar.google.com/citations?user=-YroyxsAAAAJ
 
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
