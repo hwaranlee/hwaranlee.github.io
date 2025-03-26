@@ -27,10 +27,23 @@ nav_order: 2
 
 ### 2025
 
+###### **[A3] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
+
+- [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
+- _[CALCS Workshop](https://code-switching.github.io/2025/) @ NAACL 2025_ (non-archival)
+- **Arxiv**, _2024_  
+
+###### **[A2] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
+
+- [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
+- _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_ (non-archival)
+- _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
+- **Arxiv**, _2024_
+
 ###### **[A4] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
 - [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
-- _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_
+- _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
 - **Arxiv**, _2025_
 
 ###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
@@ -49,17 +62,6 @@ nav_order: 2
 - **ICLR**, _2025_
 
 ### 2024
-
-###### **[A3] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
-
-- [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
-- **Arxiv**, _2024_
-
-###### **[A2] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
-
-- [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
-- _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_
-- **Arxiv**, _2024_
 
 ###### **[C22] [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/abs/2406.09948)**
 
