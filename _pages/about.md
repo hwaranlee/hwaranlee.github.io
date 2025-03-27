@@ -45,5 +45,5 @@ I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Scien
 - `{first_name}{last_name}@sogang.ac.kr`
 
 **📣 Notice**
-- **Student Office Hours**: Please schedule a meeting [here](https://cal.com/hwaranlee/student-office-hours)!
+- **Student Office Hours**: Please schedule a meeting **[here](https://cal.com/hwaranlee/student-office-hours)**!
 - **Recuriting Undergrad/Grad Students**: I am looking for motivated students to research and work together. Stay tuned -- recruitment is coming soon! :->
