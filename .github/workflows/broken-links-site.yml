@@ -31,11 +31,15 @@ jobs:
             }
       - name: Install and Build 🔧
         run: |
+<<<<<<< HEAD
           sudo apt-get update
           sudo apt-get install -y imagemagick
+=======
+          sudo apt-get update && sudo apt-get install -y imagemagick
+>>>>>>> upstream/main
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
-          bundle exec jekyll build --lsi
+          bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
