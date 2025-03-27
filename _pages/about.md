@@ -30,7 +30,7 @@ Recent primary interests has been building [_trustworthy and safe Large Language
 
 I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) in 2018. During my Ph.D., I was fortunate to be advised by [Prof. Soo-Young Lee](). In 2012, I obtained B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr). Before joining Sogang University, I was a lead research scientist at [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab) from 2021 to 2025, and a research scientist at [SK T-Brain]() from 2018 to 2021.
 
-**Contact me via email**: 
+**💌 Contact me via email**: 
 - `{first_name}.{last_name}@gmail.com`
 - `{first_name}{last_name}@sogang.ac.kr`
 

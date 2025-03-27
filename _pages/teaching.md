@@ -1,12 +1,19 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /teaching/
+description:
 nav: true
-nav_order: 6
+nav_order: 3
+display_categories:
+horizontal: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Introduction to Natural Language Processing
+CES5321 / CSEG321
+- [2025 Spring](https://hwaranlee.notion.site/COR1010-16-Basic-Artificial-Intelligence-Programming-Spring-25-1bc767f83965807e91f4d43edce7dd5b?pvs=4)
 
-Organize your courses by years, topics, or universities, however you like!
+
+### Basic Artificial Intelligence Programming
+COR1010-16
+- [2025 Spring](https://hwaranlee.notion.site/CES5321-CSEG321-Introduction-to-Natural-Language-Processing-Spring-25-1b2767f839658018ac43c1183b7c3842?pvs=4)
