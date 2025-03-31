@@ -21,30 +21,29 @@ nav_order: 2
 [Alice Oh]: https://aliceoh9.github.io
 [Kang-il Lee]: https://scholar.google.com/citations?user=-YroyxsAAAAJ
 
-
-**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
+**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv Preprint, **T**: Tech Report, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
 
 ### 2025
 
-###### **[A3] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
+###### **[A3] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
+
+- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
+- _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
+- **Arxiv**, _2025_
+
+###### **[A2] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
 
 - [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
 - _[CALCS Workshop](https://code-switching.github.io/2025/) @ NAACL 2025_ (non-archival)
-- **Arxiv**, _2024_  
+- **Arxiv**, _2024_
 
-###### **[A2] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
+###### **[A1] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
 - _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_ (non-archival)
 - _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
 - **Arxiv**, _2024_
-
-###### **[A4] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
-
-- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
-- _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
-- **Arxiv**, _2025_
 
 ###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
@@ -69,7 +68,7 @@ nav_order: 2
 - _[Cross-Cultural Considerations in NLP workshop](https://sites.google.com/view/c3nlp/home) @ ACL 2024 **(Best paper)**_
 - **NeurIPS Dataset & Benchmark Track**, _2024_
 
-###### **[A1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
+###### **[T1] [HyperCLOVA X Technical Report](https://arxiv.org/abs/2404.01954)**
 
 - HyperCLOVA X Team, NAVER Cloud
 - _Role as a Safety Leader_

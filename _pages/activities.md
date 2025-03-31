@@ -27,7 +27,8 @@ nav_order: 1
 
 - 2023-2024 A committee member of the 2nd Forum on Artificial Intelligence Ethics and Policy, organized by the Ministry of Science and ICT, South Korea (과기정통부 AI윤리포럼 기술분과 위원)
 
-### Internship Advising 
+### Internship Advising
+
 **_as a main mentor @ NAVER_**
 
 [Minbeom Kim]: https://minbeomkim.github.io
@@ -46,6 +47,7 @@ nav_order: 1
 - [Hwanhee Lee](http://hwanheelee1993.github.io)
 
 ### Honors and Awards
+
 **_selected_**
 
 - Annual Roll Award, KAIST EE, Apr. 2018
