@@ -16,7 +16,7 @@ nav_order: 2
 [Yongjin Yang]: https://scholar.google.com/citations?user=qGVZm3sAAAAJ
 [Hwanhee Lee]: https://hwanheelee1993.github.io
 [Joonsuk Park]: http://www.mathcs.richmond.edu/~jpark/
-[Cheonbok Park]: http://sangdooyun.github.io
+[Cheonbok Park]: https://cbokpark.github.io
 [Sangdoo Yun]: http://sangdooyun.github.io
 [Alice Oh]: https://aliceoh9.github.io
 [Kang-il Lee]: https://scholar.google.com/citations?user=-YroyxsAAAAJ

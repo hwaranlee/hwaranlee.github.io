@@ -5,9 +5,10 @@ permalink: /
 subtitle:
 
 profile:
-  # align: right
-  # image: profile.jpg
-  #address: >
+  align: right
+  image: profile_hwaran.png
+  image_circular: false # crops the image to make it circular
+  #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
@@ -29,7 +30,7 @@ latest_posts:
 # 📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**
 ---
 
-Hi! I am an assistant professor at Sogang University in the Department of Artificial Intelligence and Computer Science Engineering.
+Hi! I am an assistant professor in the Department of Artificial Intelligence and Computer Science Engineering at [Sogang University]().
 
 My research is committed to understanding humanity and society to further develop human-like and trustworthy Artificial Intelligence.
 Recent primary interests has been building [_trustworthy and safe Large Language Models (LLMs)_](), with a focus on:
