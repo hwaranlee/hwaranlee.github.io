@@ -35,7 +35,7 @@ nav_order: 2
 ###### **[A2] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
 
 - [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
-- _[CALCS Workshop](https://code-switching.github.io/2025/) @ NAACL 2025_ (non-archival)
+- _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
 - **Arxiv**, _2024_
 
 ###### **[A1] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
