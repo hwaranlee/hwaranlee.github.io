@@ -32,18 +32,18 @@ nav_order: 2
 - _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
 - **Arxiv**, _2025_
 
-###### **[A2] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
+###### **[C27] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
 
 - [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
 - _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
-- **Arxiv**, _2024_
+- **ACL Findings**, _2024_
 
-###### **[A1] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
+###### **[C26] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
 - _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_ (non-archival)
 - _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
-- **Arxiv**, _2024_
+- **ACL**, _2024_
 
 ###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
