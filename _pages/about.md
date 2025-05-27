@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 # 📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**
+# - **Student Office Hours**: Please schedule a meeting **[here](https://cal.com/hwaranlee/student-office-hours)**!
+
 ---
 
 Hi! I am an assistant professor in the Department of Artificial Intelligence and Computer Science Engineering at [Sogang University]().
@@ -48,5 +50,4 @@ I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Scien
 
 **📣 Notice**
 
-- **Student Office Hours**: Please schedule a meeting **[here](https://cal.com/hwaranlee/student-office-hours)**!
 - **Recuriting Undergrad/Grad Students**: I am looking for motivated students to research and work together. Please email me with your cv and research interests.
