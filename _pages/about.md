@@ -50,4 +50,4 @@ I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Scien
 
 **📣 Notice**
 
-- **Recuriting Undergrad/Grad Students**: I am looking for motivated students to research and work together. Please email me with your cv and research interests.
+- **Recuriting Undergrad/Grad Students**: I am looking for motivated students to research and work together. Please submit [this form](https://forms.gle/Vh7EQLaE55hc6cdU9) to apply!
