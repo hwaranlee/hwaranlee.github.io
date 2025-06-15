@@ -242,7 +242,7 @@ ninja.data = [{
           title: 'Two papers CSRT(main) and CSCL(findings) are accepted at ACL 2025.',
           description: "",
           section: "News",},{id: "news-organizing-melt-workshop-at-colm-2025",
-          title: 'Organizing MELT Workshop at COLM 2025 🌐',
+          title: 'Organizing MELT Workshop at COLM 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
