@@ -11,6 +11,7 @@ nav_order: 1
 ### Academic Services
 
 - Organizing Committee
+  - [MELT Workshop @ COLM 2025](https://melt-workshop.github.io)
   - [ACL 2025 D&I Chair](https://2025.aclweb.org/organization/)
   - [FAccT'22 CRAFT](https://facctconference.org/2022/acceptedcraft.html#fair) [HyperscaleFAccT](https://naver-career.gitbook.io/en/teams/clova-cic/events/hyperscalefacct-facct-2022)
 - Area Chair
