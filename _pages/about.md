@@ -32,7 +32,7 @@ latest_posts:
 
 ---
 
-Hi! I am an assistant professor in the Department of Artificial Intelligence and Computer Science Engineering at [Sogang University](), where I lead _the Human-centered AI and Language for All Lab_ [(HAILO Lab)](https://hailolab-sogang.github.io).
+Hi! I am an assistant professor in the Department of Artificial Intelligence and Computer Science Engineering at [Sogang University](), where I lead [(HAILO Lab)](https://hailolab-sogang.github.io) -- _Human-centered AI and Language for All_.
 
 My research is committed to understanding humanity and society to further develop human-like and trustworthy Artificial Intelligence.
 Recent primary interests has been building [_trustworthy and safe Large Language Models (LLMs)_](), with a focus on:
