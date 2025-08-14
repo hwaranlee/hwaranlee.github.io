@@ -41,7 +41,7 @@ Recent primary interests has been building [_trustworthy and safe Large Language
 (3) LLM security, including adversarial attack and red-teaming;
 (4) safety alignment and learning methods.
 
-I obtained Ph.D. in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) in 2018. During my Ph.D., I was fortunate to be advised by [Prof. Soo-Young Lee](https://ee.kaist.ac.kr/en/professor/12249/). In 2012, I obtained B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr). Before joining Sogang University, I was a lead research scientist at [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab) from 2021 to 2025, and a research scientist at [SK T-Brain]() from 2018 to 2021.
+I obtained my Ph.D. in Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](http://kaist.ac.kr) in 2018, advised by [Prof. Soo-Young Lee](https://ee.kaist.ac.kr/en/professor/12249/). In 2012, I obtained my B.S. in Mathematical Science at [KAIST](http://kaist.ac.kr). Before joining Sogang University, I was a lead research scientist at [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab) from 2021 to 2025, and a research scientist at [SK T-Brain]() from 2018 to 2021.
 
 **💌 Contact me via email**:
 

@@ -26,6 +26,11 @@ nav_order: 2
 
 ### 2025
 
+###### **[A4] [Dataset Cartography for Large Language Model Alignment: Mapping and Diagnosing Preference Data](https://arxiv.org/abs/2505.23114)**
+
+- Seohyeong Lee, Eunwon Kim, Hwaran Lee, Buru Chang
+- **Arxiv**, _2025_
+
 ###### **[A3] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
 - [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
@@ -36,14 +41,14 @@ nav_order: 2
 
 - [Haneul Yoo], [Cheonbok Park], [Sangdoo Yun], [Alice Oh], **Hwaran Lee**
 - _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
-- **ACL Findings**, _2024_
+- **ACL Findings**, _2025_
 
 ###### **[C26] [CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset](https://arxiv.org/abs/2406.15481)**
 
 - [Haneul Yoo], [Yongjin Yang], **Hwaran Lee**
 - _[Red Teaming GenAI](https://redteaming-gen-ai.github.io) @ NeurIPS 2024_ (non-archival)
 - _[CALCS Workshop](https://code-switching.github.io/2025) @ NAACL 2025_ (non-archival)
-- **ACL**, _2024_
+- **ACL**, _2025_
 
 ###### **[C25] [AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)**
 
