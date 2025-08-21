@@ -26,16 +26,16 @@ nav_order: 2
 
 ### 2025
 
-###### **[A4] [Dataset Cartography for Large Language Model Alignment: Mapping and Diagnosing Preference Data](https://arxiv.org/abs/2505.23114)**
+###### **[A1] [Dataset Cartography for Large Language Model Alignment: Mapping and Diagnosing Preference Data](https://arxiv.org/abs/2505.23114)**
 
 - Seohyeong Lee, Eunwon Kim, Hwaran Lee, Buru Chang
 - **Arxiv**, _2025_
 
-###### **[A3] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
+###### **[C28] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
 - [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
 - _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
-- **Arxiv**, _2025_
+- **EMNLP Findings**, _2025_
 
 ###### **[C27] [Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://arxiv.org/abs/2411.02460)**
 
