@@ -33,7 +33,7 @@ nav_order: 2
 
 ###### **[C28] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
-- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Kyomin Jung]
+- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, Thibaut Thonet, [Kyomin Jung]
 - _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
 - **EMNLP Findings**, _2025_
 
