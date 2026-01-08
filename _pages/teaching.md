@@ -8,6 +8,7 @@ nav_order: 3
 display_categories:
 horizontal: false
 ---
+
 ##### AI Practice
 
 - AIE3090

@@ -29,7 +29,6 @@ latest_posts:
 
 # 📣 **I'm recruiting research interns! Please check more out at [👉HERE](https://noto.li/w6Ls1h)!**
 # - **Student Office Hours**: Please schedule a meeting **[here](https://cal.com/hwaranlee/student-office-hours)**!
-
 ---
 
 Hi! I am an assistant professor in the Department of Artificial Intelligence and Computer Science Engineering at [Sogang University](), where I lead [HAILO Lab](https://hailolab-sogang.github.io) -- _Human-centered AI and Language for All_.
