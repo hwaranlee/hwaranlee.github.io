@@ -29,7 +29,7 @@ nav_order: 2
 
 ###### **[C29] [BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models](https://arxiv.org/abs/2510.11178)**
 
-- [Bryan Chen Zhengyu Tan](), [Zheng Weihua](), [Zhengyuan Liu](), [Nancy F. Chen](), **Hwaran Lee**, [Kenny Tsu Wei Choo], [Roy Ka-Wei Lee]
+- [Bryan Chen Zhengyu Tan](), [Zheng Weihua](), [Zhengyuan Liu](), [Nancy F. Chen](), **Hwaran Lee**, [Kenny Tsu Wei Choo](), [Roy Ka-Wei Lee]
 - **EACL**, _2026_
 
 ### 2025
