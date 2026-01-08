@@ -15,7 +15,8 @@ nav_order: 1
   - [ACL 2025 D&I Chair](https://2025.aclweb.org/organization/)
   - [FAccT'22 CRAFT](https://facctconference.org/2022/acceptedcraft.html#fair) [HyperscaleFAccT](https://naver-career.gitbook.io/en/teams/clova-cic/events/hyperscalefacct-facct-2022)
 - Area Chair
-  - ARR (Action Editor) 2024-2025
+  - ICML 2026
+  - ARR (Action Editor) 2024-2026
   - NeurIPS Data & Benchmark 2023-2024
   - CoLM 2024-2025
 - Conference Reviewer

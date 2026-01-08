@@ -20,20 +20,28 @@ nav_order: 2
 [Sangdoo Yun]: http://sangdooyun.github.io
 [Alice Oh]: https://aliceoh9.github.io
 [Kang-il Lee]: https://scholar.google.com/citations?user=-YroyxsAAAAJ
+[Roy Ka-Wei Lee]: https://www.roylee.sg
 
 **J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv Preprint, **T**: Tech Report, **D**: Dissertation, **P**: Patent \\ \* indicates equal contribution among authors \\
 † indicates co-corresponding authors
+
+### 2026
+
+###### **[C29] [BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models](https://arxiv.org/abs/2510.11178)**
+
+- [Bryan Chen Zhengyu Tan](), [Zheng Weihua](), [Zhengyuan Liu](), [Nancy F. Chen](), **Hwaran Lee**, [Kenny Tsu Wei Choo], [Roy Ka-Wei Lee]
+- **EACL**, _2026_
 
 ### 2025
 
 ###### **[A1] [Dataset Cartography for Large Language Model Alignment: Mapping and Diagnosing Preference Data](https://arxiv.org/abs/2505.23114)**
 
-- Seohyeong Lee, Eunwon Kim, Hwaran Lee, Buru Chang
+- Seohyeong Lee, Eunwon Kim, **Hwaran Lee**, Buru Chang
 - **Arxiv**, _2025_
 
 ###### **[C28] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
-- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, Thibaut Thonet, [Kyomin Jung]
+- [Minbeom Kim], [Kang-il Lee], [Seongho Joo](), **Hwaran Lee**, [Thibaut Thonet], [Kyomin Jung]
 - _[Bi-Align Workshop](https://bialign-workshop.github.io/#/) @ ICLR 2025_ (non-archival)
 - **EMNLP Findings**, _2025_
 
