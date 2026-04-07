@@ -27,17 +27,17 @@ nav_order: 2
 
 ### 2026
 
+###### **[C30] [Alignment Data Map for Efficient Preference Data Selection and Diagnosis](https://arxiv.org/abs/2505.23114)**
+
+- [Seohyeong Lee]\*, [Eunwon Kim]\*, **Hwaran Lee†**, [Buru Chang]†
+- **ACL Findings**, _2026_
+
 ###### **[C29] [BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models](https://arxiv.org/abs/2510.11178)**
 
 - [Bryan Chen Zhengyu Tan](), [Zheng Weihua](), [Zhengyuan Liu](), [Nancy F. Chen](), **Hwaran Lee**, [Kenny Tsu Wei Choo](), [Roy Ka-Wei Lee]
 - **EACL**, _2026_
 
 ### 2025
-
-###### **[A1] [Dataset Cartography for Large Language Model Alignment: Mapping and Diagnosing Preference Data](https://arxiv.org/abs/2505.23114)**
-
-- Seohyeong Lee, Eunwon Kim, **Hwaran Lee**, Buru Chang
-- **Arxiv**, _2025_
 
 ###### **[C28] [Drift: Decoding-time Personalized Alignments with Implicit User Preferences](https://arxiv.org/abs/2502.14289)**
 
