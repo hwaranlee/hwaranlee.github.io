@@ -29,7 +29,7 @@ nav_order: 2
 
 ###### **[C30] [Alignment Data Map for Efficient Preference Data Selection and Diagnosis](https://arxiv.org/abs/2505.23114)**
 
-- [Seohyeong Lee]\*, [Eunwon Kim]\*, **Hwaran Lee†**, [Buru Chang]†
+- [Seohyeong Lee]()\*, [Eunwon Kim]()\*, **Hwaran Lee†**, [Buru Chang]()†
 - **ACL Findings**, _2026_
 
 ###### **[C29] [BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models](https://arxiv.org/abs/2510.11178)**
