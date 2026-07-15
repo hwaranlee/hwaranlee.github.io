@@ -14,6 +14,8 @@ nav_order: 1
   - [MELT Workshop @ COLM 2025](https://melt-workshop.github.io)
   - [ACL 2025 D&I Chair](https://2025.aclweb.org/organization/)
   - [FAccT'22 CRAFT](https://facctconference.org/2022/acceptedcraft.html#fair) [HyperscaleFAccT](https://naver-career.gitbook.io/en/teams/clova-cic/events/hyperscalefacct-facct-2022)
+- Senior Area Chair
+  - ARR 2026 (May; AACL 2026)
 - Area Chair
   - ARR (Action Editor) 2024-2026
   - NeurIPS Data & Benchmark 2023-2024
@@ -25,6 +27,9 @@ nav_order: 1
   - WWW 2022
 - Journal Reviewer
   - TMLR, Speech Communication, IEEE Transactions on Neural Networks and Learning Systems, Neural Processing Letters
+- Panelist
+  - WiML @ ICML 2026
+  - Speical Sessions -- Multilinguality and LLMs @ COLM 2024
 - Workshop Program Committee
   - [In2Writing @ ACL 2022](https://aclanthology.org/2022.in2writing-1.0.pdf)
 
@@ -33,8 +38,8 @@ nav_order: 1
 <div markdown="1">
 
 ### External Activities
-
 - 2023-2024 A committee member of the 2nd Forum on Artificial Intelligence Ethics and Policy, organized by the Ministry of Science and ICT, South Korea (과기정통부 AI윤리포럼 기술분과 위원)
+- 2026-2028 AI Government Technical Advisory Committee South Korea (행정안전부 인공지능정부 기술자문단)
 
 ### Internship Advising
 
