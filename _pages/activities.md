@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 1
 #  - [LLMSec @ ACL 2025]()
+# - Workshop Program Committee
+#  - [In2Writing @ ACL 2022](https://aclanthology.org/2022.in2writing-1.0.pdf)
 ---
 
 ### Academic Services
@@ -18,20 +20,15 @@ nav_order: 1
   - ARR 2026 (May; AACL 2026)
 - Area Chair
   - ARR (Action Editor) 2024-2026
-  - NeurIPS Data & Benchmark 2023-2024
+  - NeurIPS 2023-2026
   - CoLM 2024-2025
   - ICML 2026
-- Conference Reviewer
-  - ARR, ACL, EMNLP, COLING 2021-2024
-  - NeurIPS, ICLR 2021-2025
-  - WWW 2022
-- Journal Reviewer
-  - TMLR, Speech Communication, IEEE Transactions on Neural Networks and Learning Systems, Neural Processing Letters
+- Reviewer
+  - Conferences: ARR, ACL, EMNLP, COLING, NeurIPS, ICLR, WWW
+  - Journals: TMLR, Speech Communication, IEEE Transactions on Neural Networks and Learning Systems, Neural Processing Letters
 - Panelist
   - WiML @ ICML 2026
   - Speical Sessions -- Multilinguality and LLMs @ COLM 2024
-- Workshop Program Committee
-  - [In2Writing @ ACL 2022](https://aclanthology.org/2022.in2writing-1.0.pdf)
 
 <details>
 <summary>Misc.</summary>
