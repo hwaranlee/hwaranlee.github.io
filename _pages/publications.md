@@ -26,6 +26,10 @@ nav_order: 2
 † indicates co-corresponding authors
 
 ### 2026
+###### **[A1] [Instruction Quality Matters: Refining Instructions for Effective Preference Learning](https://arxiv.org/abs/2608.26779)**
+
+- [Seohyeong Lee](), **Hwaran Lee†**, [Buru Chang]()†
+- **Arxiv**, _2026_
 
 ###### **[C30] [Alignment Data Map for Efficient Preference Data Selection and Diagnosis](https://arxiv.org/abs/2505.23114)**
 
