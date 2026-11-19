@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-- Special Topics on Responsible AI (AIE6508)
+- Special Topics on Responsible Foundation Models (AIE6508)
   - [Fall '26](https://app.notion.com/p/hwaranlee/AIE6508-Special-Topics-on-Digital-Human-Entertainment-Fall-26-3cf767f8396580b3a611e328bb1d2eb2)
 - AI Practice (AIE3090)
   - [Fall '26](https://app.notion.com/p/hwaranlee/AIE3090-AI-Practice-Fall-26-3cf767f8396580dfbba7cb74f315ca46), [Fall '25](https://hwaranlee.notion.site/AIE6681-AI-Practice-Fall-25-211767f839658017be86cdee0ae9538e)

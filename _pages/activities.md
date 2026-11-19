@@ -22,7 +22,7 @@ nav_order: 1
   - ARR (Action Editor) 2024-2026
   - NeurIPS (including D&B) 2023-2026
   - CoLM 2024-2025
-  - ICML, ICLR 2026
+  - ICML, ICLR 2026-2027
 - Reviewer
   - Conferences: ARR, ACL, EMNLP, COLING, NeurIPS, ICLR, WWW
   - Journals: TMLR, Speech Communication, IEEE Transactions on Neural Networks and Learning Systems, Neural Processing Letters
